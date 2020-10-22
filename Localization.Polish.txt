@@ -1,0 +1,704 @@
+.,Polish
+\nW nadmorskim królestwie,
+\nByłem dzieckiem i ona byla dzieckiem,
+\n</i>Ja<i> byłem dzieckiem i </i>ona<i> była dzieckiem,
+W tym nadmorskim królestwie,
+Zimny wiatr wiejący z nieba,
+Zabrał ją ode mnie,
+\nAnioły ,nieszczęśliwe w niebie,
+\nTak!--to był powód (jak wszyscy wiedzą,
+\nDla którego wiatr się zerwał nocą,
+\nW tym nadmorskim królestwie,
+\nZimny wiatr wiejący z nieba,
+\nZabrał ją ode mnie,
+quest.name,Leże Rlim Shaikorth
+EventInitialSetup.text,Budzi cię tykanie zegara. Niejasne wspomnienia nieprzespanej nocy wirują ci w głowie. Twarze pojawiają się i znikają w ciemnych zakamarkach twojego umysłu; słyszysz głosy szepczące starożytne sekrety gdzieś  w ciemności - sekrety o powracających zmarłych i o Pradawnych Bogach wracających do życia.\n\nWyłóż kafelek {c:TileBedroom2} we wskazanym miejscu.
+EventHallCornerPlaceRedMan.button1,Kontynuuj.
+EventAddTokenExploreHallCorner.text,Zza drzwi dochodzą was przytłumione głosy.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventAddTokenExploreHallCorner.button1,Kontynuuj.
+EventInvestigators.text,Zmuszacie się do wstania z łóżek. Wasze nogi drżą pod waszym ciężarem. Pokój w którym się znajdujecie jawi się wam jako rozmazana plama kolorów i świateł. Przecieracie oczy, żeby odzyskać jasność widzenia.\n\nUmieśćcie figurki swoich badaczy we wskazanym miejscu.\n
+EventInvestigators.button1,Kontynuuj.
+EventPlaceHallCorner.text,Za drzwiami ciągnie się zwyczajny korytarz.\n\nUmieść kafelki {c:TileHallCorner} i {c:TileHallCorner3} we wskazanym miejscu.
+EventPlaceHallCorner.button1,Kontynuuj.
+TokenBedroomExplore.button1,{action} Eksploruj.
+EventHallCornerPlaceRedMan.text,Młody mężczyzna siedzi cicho w czerwonym krześle, ćmiąc cygaro. Kłęby szarego dymu wirują dookoła jego blond włosów.\n\nUmieść żeton Osoby we wskazanym miejscu.
+TokenBedroomExplore.text,Zza drzwi dobiegają stłumione głosy.
+TokenBedroomPicture.text,Obraz młodej kobiety odzianej w czerń.
+TokenBedroomPicture.button1,{action} Przeszukaj.
+EventBedroomSearchTokenPainting.button1,Kontynuuj.
+EventSearchPainting.button1,Kontynuuj.
+EventSearchPainting.button2,Niezdany.
+EventExplorePaintingSuccess.text,\nZauważasz notkę przyczepioną z tyłu obrazu, zapisaną na nagłówku listu ze Szpitala Świętej Trójcy w Innsmouth:\n\n<i> Mój Drogi, \nNie wiem jak zakończy się ta próba, której stawiam czoła, wiem jednak, że z Tobą u mego boku wszystko zakończy się pomyślnie. Jeśli nie będzie mi dane powrócić do Ciebie, przekaż Mildred, że kocham ją nad życie. Ona jest moim największym osiągnięciem. \n\nHowardzie, kocham Cię całym sercem. Wiedz, że nawet śmierć nas nie rozdzieli.\n\nTwoja na zawsze,\n\nGrace<i></i></i>\n\nZyskujesz 1 Wskazówkę {clue}.
+EventExplorePaintingSuccess.button1,Kontynuuj.
+EventPaintingExploreFail.text,Przyglądasz się przez chwilę obrazowi, po czym odwieszasz go z powrotem na ścianę.\n\nUsuń ten żeton Przeszukiwania.
+EventPaintingExploreFail.button1,Kontynuuj.
+TokenBedroomDresserSearch.text,Żółta koperta, z zaproszeniem w środku, leży na górze komody.
+TokenBedroomDresserSearch.button1,{action} Przeszukaj.
+EventBedroomSearchLetter.text,\nWyciągasz list z koperty i zaczynasz czytać.\n\n<i>Serdecznie zapraszam na uroczystość celebrującą życie mojej drogiej Grace. Odbędą się gry i zabawy, uczta, oraz, być może, nawet niewielkie zamieszanie. Uroczystości rozpoczną się dokładnie o 7 wieczorem, w Salonie na piętrze. Osoby przybywające z daleka są mile widziane już dzień wcześniej. Mamy przygotowane kilka sypialni i będziemy radzi mogąc Was gościć przez noc.\n\nWyrażamy nadzieję, że uda się Wam dotrzeć, gdyż jestem przekonany, że będziecie duszą tego przyjęcia.\n\nZ poważaniem\n\nHoward Bechman<i></i></i>
+EventBedroomSearchLetter.button1,Kontynuuj.
+EventBedroom01SearchDresser.text,Po lewej znajduje się komoda. Na górze komody leży koperta z wetkniętym zaproszeniem.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventHallCornerPlaceAmmiMsRoth.text,Mężczyzna z ubłoconą łopatą stoi na zakręcie korytarza, rozmawiając cicho z wysoką, apodyktycznie wyglądającą kobietą. Wydaje się, że ich dyskusja jest dość intensywna. \nTo Ammi Pierce i Sylvia Marsh.\n\nUmieść żetony Osób we wskazanym miejscu.
+EventHallCornerPlaceAmmiMsRoth.button1,Kontynuuj.
+EventHallCornerAddDog.text,Czarno-brązowy pies cicho kładzie się u stóp Sylvii Marsh z uszami podniesionymi do góry i wysuniętym językiem, dysząc powoli i od czasu do czasu robiąc sobie przerwę, by oblizać pysk. Zauważasz, że jego przednie łapy pokryte są błotem.\n\nUmieść żeton Psa we wskazanym miejscu.
+EventHallCornerAddDog.button1,Kontynuuj.
+EventHallCornerPlaceExporeAndEye.text,Na końcu korytarza znajdują się drzwi. Drewniany napis na drzwiach brzmi: <i>Salon</i>.\n\nZdaje się, że w środku zgromadziło się sporo osób.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventHallCornerPlaceExporeAndEye.button1,Kontynuuj.
+EventEnterRoom.text,Możesz przemieścić się o jedno pole na eksplorowany obszar.\n\nUsuń ten żeton Eksploracji.
+EventEnterRoom.button1,Kontynuuj.
+TokenBobbyFoster.button1,{action} Rozmawiaj.
+EventHallCornerRedManPass.text,"Gdy ściskasz jego dłoń zauważasz dziwny symbol na wewnętrznej stronie jego nadgarstka. Wygląda jak jakieś morskie stworzenie z mackami wijącymi się dookoła jego głowy. Symbol otoczony jest znakami w języku, którego nie rozumiesz. Mężczyzna szybko obciąga rękaw koszuli gdy tylko puszczasz jego dłoń.\n\n<i>""Więc... Miło było cię poznać""</i> mówi.\n\nOddala się korytarzem i znika za rogiem.\n\nZyskujesz jedną Wskazówkę {clue}."
+EventHallCornerRedManWhatMean.text,"Pytasz mężczyznę co przez to rozumie, <i>""Byłeś tam przez całą noc i cały dzień. Może powinieneś był odpuścić sobie ten ostatni kieliszek wina. Nieważne. Jestem Bobby Foster.""</i>\nWstaje i wyciąga do ciebie dłoń ({observation})."
+EventHallCornerRedManQuestion1.button3,Nie odzywaj się.
+EventHallCornerRedManQuestion1.text,"Mężczyzna mierzy cię wzrokiem, gdy zmierzasz w jego stronę. Nie przestając przeżuwać cygara, zaczyna mówić.\n\n""Eh,"" macha do ciebie, ""Myślałem, że nigdy stamtąd nie wyjdziesz."""
+EventHallCornerRedManQuestion1.button1,Co masz na myśli?
+EventHallCornerRedManWhatMean.button1,Kontynuuj.
+EventHallCornerRedManQuestion1.button2,Kim są ludzie na końcu korytarza?
+EventHallCornerRedManWhatMean.button2,Niezdane.
+EventHallCornerRedManPass.button1,Kontynuuj.
+EventHallCornerRedManFail.text,"Ściskasz jego dłoń.\n\n<i>""Miło było cię poznać""</i> mówi.\n\nOdchodzi i znika za rogiem korytarza."
+EventHallCornerRedManFail.button1,Kontynuuj.
+EventHallCornerRedManHowGet.text,"Wskazujesz na rozmawiającą dwójkę w końcu korytarza i pytasz kim są.  <i>""Ammi Pierce, ogrodnik,""</i> mówi, <i>""i Lady Sylvia Marsh. ostatnio spędza tu mnóstwo czasu, pomagając panu Bechmanowi. Jest w niej coś dziwnego, jesli ktoś by mnie pytał. W każdym razie, jestem Bobby Foster.""</i>\n\nWstaje i wyciąga do ciebie swoją dłoń ({observation})."
+EventHallCornerRedManHowGet.button1,Kontynuuj.
+EventHallCornerRedManHowGet.button2,Niezdane.
+EventCornerHallRedManSayNothing.button1,Kontynuuj.
+EventCornerHallRedManSayNothing.button2,Niezdane.
+TokenSylviaMarsh.text,Wysoka, apodyktycznie wyglądająca kobieta.\nTo Sylvia Marsh.
+EventCornerHallRedManSayNothing.text,"Nadal zmęczony zachowujesz milczenie.\n\n<i>""W każdym razie, jestem Bobby Foster""</i> mówi mężczyzna. Wstaje i wyciąga do ciebie rękę ({observation})."
+TokenSylviaMarsh.button1,{action} Rozmawiaj.
+EventHallCornerMarshConversation.text,Zbliżasz się do kobiety z zamiarem przedstawienia się, jednak zanim do niej doszedłeś pies zrywa się z podłogi.\nZe zjeżoną sierścią, obnażonymi kłami i warcząc staje pomiędzy tobą, a kobietą ({agility}).\n
+EventHallCornerMarshConversation.button1,Kontynuuj.
+EventHallCornerTalkAmmi.text,"Ledwie zwracając uwagę na psa, kobieta kieruje swoją uwagę z powrotem na mężczyznę i niskim, silnym głosem mówi <i>""Załatw to Ammi""</i>.\n\n<i>""Tak, pani Marsh""</i>, odpowiada.\n\nKobieta odwraca się i znika w końcu korytarza. Z ulgą wypuszczasz powietrze gdy pies podąża za nią.\n\nUsuń żetony Sylvii Marsh i Psa z planszy."
+EventHallCornerTalkAmmi.button1,Kontynuuj.
+EventEnterHallTalkAmmi2.button1,Kontynuuj.
+EventEnterHallTalkAmmi2.text,"\nAmmi Pierce mamrocze coś pod nosem, po czym zwraca na ciebie uwagę. ""Czego chcesz?""\n\n<i>""Ten pies próbował mnie ugryźć!""</i>\n\n""Lepiej uważaj. Przeklęty kundel jest bardzo zaborczy jeśli chodzi o panią Marsh.""\n\n<i>""O czym rozmawialiście?""</i>, pytasz.\n\nAmmi podchodzi do ciebie bliżej, smród jego gorącego oddechu wypełnia ci nozdrza, ""Nie twój zasrany interes.""\n\nAmmi odwraca się i odchodzi.\n"
+EventHallCornerTalkToAmmi.button1,Kontynuuj.
+EventHallCornerTalkToAmmi.text,Podchodzisz do mężczyzny żeby się przedstawić, jednak zanim się zbliżysz, pies zrywa się z podłogi. Ze zjeżoną sierścią, obnażonymi kłami i warcząc staje pomiędzy tobą a kobietą ({agility}).\n
+TokenAmmiPierce.button1,{action} Rozmawiaj.
+TokenAmmiPierce.text,Gburowato wyglądający mężczyzna.
+EventHallCornerTalkToAmmi.button2,Niezdane.
+EventHallCornerNoBite.text,Potężne szczęki zamykają się tuż obok twojej dłoni, zmuszając cię byś się cofnął.
+EventHallCornerNoBite.button1,Kontynuuj.
+EventHallCornerDogFail.text,Pies rzuca się na ciebie z szeroko otwartym pyskiem, śliną kapiącą na ziemię. Czujesz jak kły zatapiają się w twojej ręce. Błysk bólu nadchodzi niemal natychmiast. Szybko cofasz się, trzymając za pokrwawioną dłoń.\n\nPrzyjmujesz 1 zakrytą kartę Obrażenia.
+EventHallCornerDogFail.button1,Kontynuuj.
+EventHallCornerTalkAmmiBite.text,"Ledwie zwracając uwagę na psa, kobieta kieruje swoją uwagę z powrotem na mężczyznę i niskim, silnym głosem mówi <i>""Załatw to Ammi""</i>.\n\n<i>""Tak, pani Marsh""</i>, odpowiada.\n\nKobieta odwraca się i znika w końcu korytarza. Z ulgą wypuszczasz powietrze gdy pies podąża za nią.\n\nUsuń żetony Sylvii Marsh i Psa z planszy."
+EventHallCornerTalkAmmiBite.button1,Kontynuuj.
+EventHallCornerTalkAmmiBite1.button1,Kontynuuj.
+EventHallCornerMarshConversation.button2,Niezdane.
+EventHallCornerTalkAmmiBite1.text,"\nAmmi Pierce mamrocze coś pod nosem, po czym zwraca na ciebie uwagę. ""Czego chcesz?""\n\n<i>""Ten pies mnie ugryzł!""</i>, mówisz nadal trzymając się za pokrwawioną rękę. Krew powoli wsiąka w koszulę.\n\n""Następnym razem lepiej uważaj. Przeklęty kundel jest bardzo zaborczy jeśli chodzi o panią Marsh.""\n\nWyciągasz przed siebie zranioną dłoń i mówisz <i>""Myślę, że ktoś powinien się tym zająć""</i>.\n\nAmmi podchodzi do ciebie bliżej, smród jego gorącego oddechu wypełnia ci nozdrza, ""Nie mam czasu na takie pierdoły.""\n\nAmmi odwraca się i odchodzi."
+TokenDog.text,Pies wygląda na zadowolonego.
+TokenDog.button1,{action} Pogłaszcz.
+EventHallCornerInteractDog.text,Zbliżasz się do psa, jednak zanim zdążysz wyciągnąć rękę ten zrywa się z podłogi. Ze zjeżoną sierscią, obnażonymi kłami i warcząc staje pomiędzy tobą a kobietą ({agility}).\n
+EventHallCornerInteractDog.button1,Kontynuuj.
+EventHallCornerInteractDog.button2,Niezdane.
+TokenCornerHallSearchLounge.button1,{action} Eksploruj.
+EventLoungeComeIn.text,Usuń ten żeton Eksploracji.\nMożesz przemieścić się o jedno pole na eksplorowany obszar.
+EventHallCornerOpenLoungeDoor.button1,Kontynuuj.
+TokenCornerHallSearchLounge.text,Słyszysz kilka osób rozmawiających za drzwiami. Drewniany napis głosi : <i> Salon</i>.
+EventBathroomPlaceBathroom.button1,Kontynuuj.
+EventBathroomPlaceBathroomExploreToken.button1,Kontynuuj.
+EventBathroomPlaceBathroom.text,Usuń żeton Obserwacji i umieść kafelek {c:TileHallCorner3} we wskazanym miejscu.
+EventBathroomPlaceBathroomExploreToken.text,Drzwi za rogiem korytarza mają drewniany napis <i>Łazienka</i>.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventStairsExplore.text,Mocno zużyte drzwi. Drewniany napis brzmi: <i> Schody</i>. \n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventStairsExplore.button1,Kontynuuj.
+\nAnd neither the angels in heaven above,
+\nNor the demons down under the sea,
+\nFor the moon never beams,without bringing me dreams
+\nAnd the stars never rise,but I feel the bright eyes
+\nAnd so,all the night-tide, I lie down by the side
+\nOf my darling--my darling--my life and my bride,
+\nIn her sepulcher there by the sea,
+UIOpeningText01.uitext,<i>Niegdyś przed wielu, wielu laty\nW królestwie nad mórz pianą\nŻyła dzieweczka, którą znałem;\nAnnabel Lee ją zwano.\nDzieweczka z kraju ponad morzem,\nW królestwie nad mórz pianą\nŻyła tym tylko, że mnie kocha,\nI tym, że jest kochaną.<i>\n\nByliśmy dziećmi, ja i ona,\nW królestwie nad mórz pianą,\nA miłowaliśmy się miłością\nNad miłość innym daną.\nA miłowaliśmy się miłością,\nJa z moją Annabel Lee,\nO jakiej chyba skrzydlaty\nRój Serafinów śni.\n\n<b>Kontynuuj
+In a kingdom by the sea,
+EventInitialSetup.button1,Kontynuuj.
+UIOpeningText02.uitext,<i>I z tej to właśnie, z tej przyczyny\nW królestwie nad mórz pianą\nWicher napędził kłąb chmur siny\nW królestwie nad mórz pianą.\nI jak Serafin lodowaty,\nW mroźne odziany mgły,\nDo zimnej wtrącił ją mogiły -\nMoją Annabel Lee.\n\nBo tam, w królestwie nad mórz pianą,\nKażde dziecko to wie,\nŻe zazdrościły Serafiny\nAnnabel Lee i mnie,\nI że dlatego wichry mroźne\nW chmurne odziane mgły\nZabiły ją - zmroziły...\nMą piękną Annabel Lee.</i>\n\n<b>Kontynuuj<b>
+UIOpeningText03.uitext,<i>Lecz w naszej miłości, choć była dziecięca,\nTak silnych uroków moc tkwi,\nŻeśmy się kochali i lepiej, i więcej\nNiż starsi i mędrsi niż my...\nNiż mędrsi i starsi niż my...\nI nigdy anioły, co w niebie królują,\nNi czarnych demonów rój zły,\nNie mogły oderwać jej duszy od mojej,\nNi mojej od Annabel Lee.\n\n<b>Kontynuuj
+UIOpeningText02.button1,Kontynuuj.
+UIOpeningText03.button1,Kontynuuj.
+UIPaintingOfWoman.button1,Kontynuuj.
+EventHallCornerRemoveRedMan.text,Usuń ten żeton Osoby.
+EventHallCornerRemoveRedMan.button1,Kontynuuj.
+EventHallCornerRemoveAmmi.text,Usuń żeton Ammi Pierce'a i zyskaj jedną Wskazówkę {clue}.
+EventHallCornerRemoveAmmi.button1,Kontynuuj.
+EventRemoveDresserToken.text,Usuń ten żeton Przeszukiwania.
+TokenLoungeWindowsSearch.text,W ścianie salonu znajdują się trzy duże okna.
+TokenLoungeWindowsSearch.button1,{action} Przeszukaj.
+EventLoungAddWindowSearchToken.text,Czerwonawe światło wczesnego wieczora wpada przez trzy duże okna po drugiej stronie salonu, wypełniając pomieszczenie nietypowym spokojem.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventLoungAddWindowSearchToken.button1,Kontynuuj.
+TokenLoungeEndTable.text,Mały stolik z niewielką szufladą.
+TokenLoungeEndTable.button1,{action} Przeszukaj.
+EventLoungeAddEndTableToken.text,Pod ścianą stoi mały stolik z niewielką szufladą.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventLoungeAddEndTableToken.button1,Kontynuuj.
+TokenMildredBechman.button1,{action} Rozmawiaj.
+EventLoungeAddPeople.text,W pomieszczeniu znajduje się jeszcze kilka osób, pogrążonych w rozmowach.\n\nUmieść żetony Osób we wskazanych miejscach.\n(Goście są tak pochłonięci rozmowami, że nie zwracają na ciebie uwagi.)\n
+TokenMildredBechman.text,Młoda dziewczynka siedzi samotnie na fotelu.\nPopijają lemoniadę i nuci sobie jakąś piosenkę, machając przy tym nogami, którymi nie sięga do podłogi.
+EventLoungeAddPeople.button1,Kontynuuj.
+EventLoungeAddMildredBechman.text,Młoda dziewczynka siedzi, odwrócona tyłem do wejścia. Opartą na kolanach trzyma szklankę lemoniady. Nuci dziecięcą piosenkę i macha nogami w powietrzu. To Mildred Bechman.\nUmieść żeton Osoby we wskazanym miejscu.
+EventLoungeAddMildredBechman.button1,Kontynuuj.
+EventLoungeAddHowardBechman.text,Po środku pokoju stoi wysoki, krzepki mężczyzna z gęstą, brązową brodą. Rozgląda się po pomieszczeniu, przyglądając się gościom i popijając szkocką z trzymanej w dłoni szklanki.\nTo Howard Bechman. \n\nUmieść żeton Osoby we wskazanym miejscu.
+EventLoungeAddHowardBechman.button1,Kontynuuj.
+EventHallCornerOpenLoungeDoor.text,Otwarte drzwi prowadzą do salonu. Natychmiast po otwarciu otacza cię szum wielu rozmów prowadzonych w tym samym czasie. Pomieszczenie jest dość przestronne. Niewielka ilość mebli ustawiona jest w taki sposób aby można było tu przyjemnie spędzać czas w większym gronie. Parkiet w pomieszczeniu wygląda i pachnie jakby niedawno był froterowany.\n\nUmieść kafelek {c:TileLounge} we wskazanym miejscu.
+EventLoungeComeIn.button1,Kontynuuj.
+EventLoungeMildredConversation.text,"Dziewczynka nuci piosenkę gdy do niej podchodzisz.\nNagle spogląda na ciebie zaskoczona i oblewa się lemoniadą.\n<i>Przepraszam. Przestraszyłeś mnie.""</i>\n\nZapewniasz dziewczynkę, że nie miałeś takiego zamiaru i pomagasz jej się wytrzeć podając jej  swoją chusteczkę.\n\n<i>""Jestem Mildred. Przybyłeś tutaj na przyjęcie?""</i>\nWyciąga do ciebie rękę."
+EventLoungeMildredConversation.button1,Owszem.
+EventLoungeMildredConversation.button2,Właściwie, nawet nie wiem dlaczego tu jestem.
+EventMildredDontKnowWhatpartyfor.button1,Kontynuuj.
+EventMildredDontKnowWhatpartyfor.text,"Potwierdzasz przypuszczenie dziewczynki i zapewniasz ją jak wspaniałą osobą była jej matka.\n\nNa wspomnienie o matce cień smutku przebiega po twarzy Mildred.\n<i>""Dziś mija rok odkąd mama umarła. Nie wiem czemu z tej okazji ojciec urządza przyjęcie. Mówi, że mama by tego chciała i żebyśmy byli szczęśliwi.""</i>\n\nNie wiedząc jak odpowiedzieć ograniczasz się do krótkiego <i>""Oh""</i>.\n\nMildred unosi się nieco.\n<i>""Cóż myślę, że tak musi być. Tata powtarza, że mama jest z nami nawet po śmierci. Nie wiem... Po prostu chciałabym żeby tu była z nami ale tak naprawdę była.""</i>"
+EventMildredEndConversation.text,"Czujesz przejmujący smutek słuchając słów Mildred.\n<i>""Wygląda na to, że bardzo kochałaś swoją mamę.""</i>\n\n<i>""Kocham.""</i>- przerywa ci.\n\n<i>""Słucham?""</i>\n\n<i>""Kocham. Nie kochałam. Nadal ją kocham.""</i>\nKontynuuje z pełną nadziei ignorancją małego dziecka:\n<i>""Gdy mówię tacie, że chciałabym żeby mama była znowu z nami, powtarza mi, że wszystko jest możliwe.\nTeż uważasz, że wszystko jest możliwe?""</i>\n\nNie bardzo wiedząc co na to odpowiedzieć, odpowiadasz <i>""Jasne""</i>.\n\nMildred pownownie się uśmiecha, <i>""Ja też.""</i>\n\nZyskujesz jedną Wskazówkę {clue}."
+EventMildredEndConversation.button1,Kontynuuj.
+EventMildredDontKnowWhyHere.text,"Wyjaśniasz Mildred, że tak naprawdę nie znałeś jej matki za dobrze, i że byłeś zaskoczony gdy otrzymałeś zaproszenie.\n\n<i>""Myślę, że tata chciał żeby jak najwięcej ludzi pamiętało o mamie. Zmarła równo rok temu.""</i>\nDziewczynka spuszcza wzrok, a cień smutku przebiega przez jej twarz.\n\nNie wiedząc za bardzo jakich słów użyć, odpowiadasz po prostu <i>""Tak. Wiem.""</i>\n\n<i>""Tak czy inaczej, tata mówi, że to przyjęcie.""</i>\nWygląda na troszkę pocieszoną, pomimo lekkiego uczucia fałszu jaki w tym wyczuwasz.\n<i>""Tata mówi, że mama chciałaby żebyśmy byli szczęśliwi. Poza tym powtarza, że mama nawet po śmierci jest z nami. Nie wiem... Czasami po prostu chciałabym żeby znów była z nami, ale tak naprawdę była.""</i>"
+EventMildredDontKnowWhyHere.button1,Kontynuuj.
+TokenMildred2.text,Mildred wydaje się być pochłonięta swoimi sprawami.
+TokenMildred2.button1,Kontynuuj.
+TokenHowardBechman.text,Howard Bechman przewodzi przyjęciu samą swoją obecnością, rozglądając się po pomieszczeniu i popijając szkocką z kryształowej szklanki.
+TokenHowardBechman.button1,{action} Porozmawiaj.
+EventTalkToHowardBechman.text,"Niskim, pełnym pewności siebie głosem mówi:\n<i>""Witaj. Wspaniale, że przyszedłeś. Jestem Howard Bechman.""</i>\n\nWita się z tobą, ściskając ci dłoń na powitanie.\n\n<i>""Chciałbym z tobą dłużej porozmawiać ale uroczystości niedługo się zaczną.""</i>"
+EventTalkToHowardBechman.button1,Uroczystości?
+EventTalkHowardBechmanFestivities.text,"Zadajesz pytanie.\n\nPrzygląda ci się uważnie.\n<i>""Nie wiesz? Zebraliśmy się tutaj, żeby uczcić pamięć mojej drogiej Grace. Zawsze lubiła porządne przyjęcia.""</i>\n\n<i>""Rozumiem""</i> , odpowiadasz i po chwili dodajesz <i>""Kondolencje, z powody pańskiej straty. Nigdy nie miałem okazji bliżej poznać pani Bechman.""</i>\n\nPan Bechman zaczyna się śmiać i klepie cię w ramię.\n<i>""Nie przejmuj się. Skoro w ogóle ją znałeś, na pewno byłeś przyjacielem. Czas zacząć przyjęcie.""</i>"
+EventTalkHowardBechmanFestivities.button1,Kontynuuj.
+EventTheParty.text,Wieczór powoli mija, wypełniony różnymi grami oraz rozrywkami. Pomimo tego, że czujecie się trochę nieswojo, udaje się wam całkiem dobrze bawić.
+EventTheParty.button1,Kontynuuj.
+EventPuzzleBox.text,"Gdy przyjęcie powoli zaczyna się uspokajać pan Bechman wychodzi na środek i mówi:\n<i>""Przyjaciele. Mam dla was jeszcze jedną zabawę.""</i>\nRozgląda się powoli po pomieszczeniu.\n<i>""Każdy z was otrzyma pudełko - łamigłówkę. Zasady są proste. Kto pierwszy zdoła otworzyć swoje pudełko zostaje zwycięzcą.""</i>\n\n<i>""A co jest do wygrania?""</i>- pyta ktoś z sali.\n\n<i>""Nie wyprzedzajmy faktów. Dość powiedzieć, że nagrodą będzie coś naprawdę wyjątkowego. Można powiedzieć, że jest to coś co odmieni wasze życie.""</i> - odpowiada pan Bechman.\n\nSalon wypełnia gwar podnieconych głosów, gdy wasz gospodarz przechadza się pomiędzy gośćmi rozdająć pudełka - łamigłówki. Gdy kończy pada komenda <i>""Zaczynamy!""</i>."
+EventPuzzleBox.button1,Kontynuuj.
+PuzzlePuzzleBox.button1,Sprawdź.
+TokenLoungeHowardBechman2.text,"Howard Bechman zachęca cię:  <i>""Nie podawaj się teraz! Prawie ci się udało!""</i>"
+EventAddPuzzleBox.text,Przed tobą znajduje się pudełko - łamigłówka. \nUmieść żeton Oddziaływania we wskazanym miejscu.\n\nMożesz spróbować rozwiązać łamigłówkę w oparciu o swoją Spostrzegawczość {observation}.
+TokenPuzzleBox.text,Łamigłówka wydaje się dość prosta. Możesz spróbować otworzyć pudełko korzystając ze swojej Spostrzegawczości {observation}.
+TokenPuzzleBox.button1,{action} Podejmij próbę.
+EventAddPuzzleBox.button1,Kontynuuj.
+TokenPuzzleBoxUnsolved.text,Otaczający cię goście w skupieniu próbują otworzyć swoje pudełka.\nMożesz spróbować otworzyć swoje pudełko korzystając ze swojej Spostrzegawczości {observation}.
+TokenPuzzleBoxUnsolved.button1,{action} Podejmij próbę.
+EventPuzzleBoxSolved.text,Gdy ostatni element wskakuje na swoje miejsce, pudełko zaczyna świecić zielonym blaskiem.\nPrzyglądasz mu się dokładnie starając się zrozumieć jak działa.
+EventPuzzleBoxSolved.button1,Kontynuuj.
+EventRecieveCultSigel.button1,Kontynuuj.
+EventRecieveCultSigel.text,Powoli wieczko pudełka odsuwa się na bok, a twoim oczom ukazuje się niewielki kamień rzeźbiony wijącymi się symbolami.\n\nZyskujesz przedmiot unikatowy {c:QItemCultSigil}.\nOdrzuć ten żeton Oddziaływania.
+EventRemoveBox.text,"Zauważasz, że na sali nagle zapadło milczenie. Wszystkie oczy skierowane są w twoją stronę. \nMilczenie przerywa pan Bechman.\n\n<i>""No popatrz. Udało ci się. Kto by przypuszczał, że ze wszystkich zgromadzonych to właśnie ty jako pierwszy rozwiążesz tą zagadkę. Gratuluję!""</i>\n"
+EventRemoveBox.button1,Kontynuuj.
+EventRemovePersonsLounge.text,"\nNagle świat dookoła ciebie eksploduje śmiechem i gwarem rozmów. Howard Bechman spogląda na ciebie ze zrozumieniem.\n<i>""Widziałeś ją czyż nie?""</i>\nSzepcze do ciebie. Opuszcza wzrok. Po kilku chwilach, z trudem przełyka ślinę i znów spogląda na ciebie i ze strachem w głosie mówi:\n<i>""Przepraszam.""</i>\n\nOdwracając się do zgromadzonych opanowuje się jednak na powrót i oznajmia:\n<i>""A więc to wszystko na dzisiaj! Udajmy się do jadalni. Wierzę, że Thomas już przygotował nam wspaniały deser.""</i>"
+EventRemovePersonsLounge.button1,Kontynuuj.
+EventLungeWindowSearch.text,Wyglądasz przez jedno z okien na świat na zewnątrz oświetlony ostatnimi promieniami słońca, zachodzącego powoli za kępą drzew. Światło przechodząc przez gałęzie tworzy piękną plątaninę pomarańczowych plam i niebieskich cieni. Po gałęziach drzew skaczą i gonią się dwie wiewiórki.
+EventLungeWindowSearch.button1,Kontynuuj.
+EventLoungeSearchEndTable.text,Wycinek gazety przedstawia zdjęcie mężczyzny kucającego nad ciałem kobiety. Drugi mężczyzna spogląda na coś w tle. Podpis pod zdjęciem brzmi:\n\n<i>Szeryf Robert A. McGill  był pierwszą osobą na miejscu zdarzenia gdy samochód Grace Bechman zsunął się z drogi. Pani Bechman w stanie krytycznym znajduje się obecnie w szpitalu Św. Trójcy w Innsmouth.</i>
+EventLoungeSearchEndTable.button1,Kontynuuj.
+EventFindGun.text,Twoją uwagę przykuwa pudełko leżące z tyłu szuflady. \nWyciągasz je i otwierasz.  Wewnątrz znajdujesz przedmiot powszechny {c:QItemFirearm_LoungeDrawer}.\n\nUsuń ten żeton Przeszukiwania.\nZyskujesz 1 Wskazówkę {clue}.
+EventFindGun.button1,Kontynuuj.
+EventNewspaperFlip02.text,Odwracasz wycinek. Na drugiej stronie ktoś zapisał krwawą czerwienią:\n\n<i>W spokoju\n088</i>
+EventLoungeFindGunFail.text,Nie znajdujesz już niczego co mogłoby ci się przydać.\n\nUsuń ten żeton Przeszukiwania.\nZyskujesz 1 Wskazówkę {clue}.
+EventLoungeFindGunFail.button1,Kontynuuj.
+EventSearchPainting.text,Rozpoznajesz niemal idealnie odwzorowany wizerunek Grace Bechman. Jej perfekcyjnie ukształtowane usta, delikatną krzywiznę nosa oraz oczy zdające się spoglądać poza zasłonę świata. Zdejmujesz obraz żeby przyjrzeć się z bliska {observation}.\n
+EventRemoveDresserToken.button1,Kontynuuj.
+TokenLoungeExploreBalcony.text,Przez okienko w drzwiach widzisz balkon.
+TokenLoungeExploreBalcony.button1,{action} Eksploruj.
+EventLoungeAddBalconyDoor.text,W rogu pomieszczenia znajdują się drzwi z oknem. Przez szybę widać balkon.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventLoungeAddBalconyDoor.button1,Kontynuuj.
+EventBalconyAddBalcony.text,Gdy tylko otwierasz drzwi, twoją twarz omiata delikatny wiatr, wypełniający płuca świeżym powietrzem.\n\nUmieść kafelek {c:TileSideBalcony} we wskazanym miejscu.
+EventBalconyAddBalcony.button1,Kontynuuj.
+EventBalconyCrows.text,Stado kruków siedzące w rogu balkonu wydaje się zdziwione twoją obecnością. Spłoszone odlatują, zostawiając za sobą cokolwiek czym się interesowały przed twoim  przybyciem.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventBalconyCrows.button1,Kontynuuj.
+TokenLoungeMangledMess.button1,{action} Przeszukaj.
+EventLoungePulledIn.button1,Kontynuuj.
+TokenLoungeMangledMess.text,Jest tutaj coś co przyciągnęło uwagę kruków.
+EventBalconyThrowChair.button1,Kontynuuj.
+TokenBalconyLockedDoor.text,Drzwi są zamknięte. Nikt nie może wejść na balkon ani go opuścić.
+TokenBalconyLockedDoor.button1,Kontynuuj.
+EventLoungePulledIn.text,Suddenly, the door slams behind you and you hear it lock. Place the search token as indicated.
+SpawnBalconyGraceUniqueGhost.text,"Zakrwawiona postać kobiety pojawia się znikąd przed tobą. Jej głowa jest zmiażdżona, jedna ręka wykręcona pod niemożliwym kątem, a całe ciało poskręcane jak jakieś upiorne stare drzewo. \nZaczyna krzyczeć:\n""Martwi muszą spoczywać w spokoju!""\n\nWystaw figurkę {type} we wskazanym miejscu."
+EventBalconyThrowChair.text,Krzesło stojące na balkonie, podrywa się z ziemi i przelatując obok ciebie, roztrzaskuje szybę w drzwiach, którymi przed chwilą wszedłeś. \nWirujące odłamki szkła tną powietrze wokół.\nOtrzymujesz 2 karty Obrażeń ({agility} zapobiega).
+CustomMonsterGraceCustomGhost01.info,-
+EventLoungeThisGrace.text,Pomimo zaawansowanego rozkładu i licznych ran, rozpoznajecie w duchu Grace Bechman.
+EventLoungeThisGrace.button1,Kontynuuj.
+EventBalconyGhostDies.text,"Duch Grace Bechman zaczyna rozmywać się w powietrzu. Od strony znikającej szybko zjawy dobiega cię jeszcze jej krzyk:\n<i>""Powstrzymajcie go! Inni czekają! Ona go omamiła! Powstrzymajcie go, bo  w przeciwnym wypadku Oni przybędą! Zmarli muszą spoczywać w spokoju!""</i>"
+EventBalconyGhostDies.button1,Kontynuuj.
+TokenGraceGhostItem.text,Dziwny przedmiot leży w miejscu w którym pojawiła się zjawa Grace Bechman.
+TokenGraceGhostItem.button1,{action} Przeszukaj.
+EventBalconyReceiveTome.text,Podnosisz opasłą księgę i na szybko kartkujesz. Gdy to robisz czujesz jak dziwna moc przepływa przez ciebie.\n\nZyskujesz przedmiot powszechny {c:QItemTome_GraceGhostItem}.\nUsuń ten żeton Przeszukiwania.
+EventBalconyReceiveTome.button1,Kontynuuj.
+SpawnBalconyGraceUniqueGhost.button1,Kontynuuj.
+SpawnCustomGraceGhost01.text,"Ludzkie szczątki zaczynają znikać, jednocześnie pokrwawiona postać  kobiety zaczyna materializować się obok ciebie.\nPołowa jej głowy znajduje się w zaawansowanej fazie rozkładu. Jedna ręka wygięta jest pod niemożliwym kątem. Całe ciało przypomina stare, poskręcane drzewo.\nDuch zaczyna krzyczeć:\n<i> ""Zmarli muszą spoczywać! w spokoju! Zmarli muszą spoczywać w spokoju!""</i>\nDrzwi za tobą zatrzaskują się i słyszysz obracający się zamek.\n\nUmieść żeton Eksploracji we wskazanym miejscu.\n\nUmieść figurkę  {type} (figurka Ducha) we wskazanym miejscu."
+CustomMonsterGraceCustomGhost01.monstername,Duch Grace Bechman
+SpawnCustomGraceGhost01.button1,Kontynuuj.
+EventBloodyMassClue.text,Przyglądasz się bliżej narożnikowi, w którym siedziały kruki. Znajdujesz krwawą mieszaninę mięsa i włosów, pokrytą gęsto mrówkami.\n\nPrzyjmujesz 2 karty Przerażenia ({will} zapobiega).\n\nZyskujesz 1 Wskazówkę {clue}.\nUsuń ten żeton Przeszukiwania.
+EventBloodyMassClue.button1,Kontynuuj.
+TokenTopStairsDoor.text,Drzwi wyglądają na mocno zużyte. Drewniana tabliczka obok drzwi głosi: <i> Klatka schodowa</i>.
+EventStairsTopLocked.text,Naciskasz klamkę jednak drzwi są zamknięte. Będziesz musiał znaleźć sposób na otwarcie tych drzwi.
+TokenExploreStairsUnlocked.button1,{action} Eksploruj.
+TokenBathroomExploreBathrrom.text,Drzwi z małą drewnianą tabliczką: <i>Łazienka</i>.
+TokenBathroomExploreBathrrom.button1,{action} Eksploruj.
+EventExploreBathroom.text,Otwierasz drzwi i widzisz małą, dobrze zaprojektowaną łazienkę.
+EventExploreBathroom.button1,Kontynuuj.
+TokenBathroomSink.text,Szafka z umywalką.
+TokenBathroomSink.button1,{action} Przeszukaj.
+TokenBathroomToilet.text,Toaleta wygląda na sprawną.
+TokenBathroomToilet.button1,{action} Interakcja.
+TokenBathroomWoman.button1,{action} Rozmawiaj.
+EventBathroomMoveIn.text,Możesz przemieścić się o jedno pole na eksplorowany obszar.\n\nUsuń ten żeton Eksploracji.
+EventBathroomToilet.text,Zaraz po lewej widzisz toaletę, która wygląda na całkowicie sprawną.\n\nUmieść żeton Oddziaływania we wskazanym miejscu.
+EventBathroomToilet.button1,Kontynuuj.
+EventBathroomAddSink.text,W rogu znajduje się szafka z umywalką.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventBathroomAddSink.button1,Kontynuuj.
+EventBathroomWoman.text,Jesteś zaskoczony widząc kobietę w wannie. Z początku wydaje się zaskoczona, jednak po chwili zaprasza cię do wejścia.\n\nUmieść żeton osoby we wskazanym miejscu.
+EventBathroomWoman.button1,Kontynuuj.
+TokenBathroomWoman.text,W wannie znajduje się kobieta. Zaprasza cię do podejścia.
+EventBathroomMoveIn.button1,Kontynuuj.
+EventBathroomUseToiletWoman.button1,Kontynuuj.
+EventBathroomUseToiletAlone.text,Do tej pory nie zdawałeś sobie sprawy jak bardzo potrzebowałeś skorzystać z toalety. Siadasz spokojnie i kontemplując życie odczuwasz ulgę.\n\nOdrzucasz 1 kartę Obrażenia lub 1 kartę Przerażenia.
+EventBathroomNewspaper.text,Na półce obok ciebie leży gazeta. Bierzesz ją i zaczynasz czytać. Gdy przewracasz stronę, stary wycinek spada na twoje kolana.
+EventBathroomNewspaper.button1,Kontynuuj.
+EventBathroomPaper.text,"<i><b>Innsmouth</b> – Biuro szeryfa kontynuuje poszukiwania kierowcy podejrzanego o spowodowanie wypadku, w wyniku którego, zmarła pani Grace Bechman. Jak do tej pory jedynym tropem są zeznania świadka, który nie widział twarzy kierowcy, jedynie samochód.\n\nHank Rolland, świadek, ""Szedłem drogą, gdy nagle ten wielki czarny Benz pojawił się jakby znikąd. Nie wiem kto go prowadził ale bardzo się spieszył. Wtedy zobaczyłem samochód pani Marsh jadący z naprzeciwka. Benz zajmował praktycznie całą drogę. Pani Bechman nie miała dokąd uciec. Uciekła więc tam gdzie mogła czyli prosto do rowu.""\n\nJeśli posiadają państwo jakiekolwiek informacje o sprawcy wypadku, prosimy o kontakt z biurem szeryfa. Za pomoc w ujęciu sprawcy przewidziana jest skromna nagroda.</i>"
+\nHank Rolland was one of those witnesses,and he recounted the story to us. “I was walking down the road not far from where the accident happened, when all of a sudden this big, black Benz comes out of nowhere. Whoever was driving that thing was sure in a hurry. Then I saw Mrs. Bechman’s car coming the other direction, and well, the Benz was taking up almost the entire road. Mrs. Bechman didn’t have anywhere to go, and down she went. Run right off the road.”
+\nIf you know who is responsible for this tragic accident,the Sheriff’s Department asks that you contact them immediately. There is a small reward.
+EventBathroomPaper.button1,Kontynuuj.
+EventBathroomPaperDown.text,Usuń ten żeton Oddziaływania.\n\nZyskujesz 1 Wskazówkę {clue}. 
+EventBathroomPaperDown.button1,Kontynuuj.
+EventWomanInTub.text,Niewidzialna siła zmusza cię do podejścia w stronę kobiety w wannie. Gdy się zbliżasz, wstaje, naga, cała mokra, całkowicie odsłonięta. Wychodzi z wanny i chwyta cię za rękę. Kładzie ją sobie na swojej talii. \nZbliża się do ciebie, a jej wargi stykają się z twoimi. \nW twoim umyśle wirują wspomnienia ciemnego, odosobnionego miejsca, w którym za towarzystwo miałeś jedynie malignę. Czujesz jak twoja dusza opuszcza ciało, a ty sam zaczynasz się unosić ponad łazienką. \nPrzed twoimi oczami rozciąga się cała posiadłość. Wygląda jak starożytny demon gotowy żeby pochłonąć każdego kto stanie mu na drodze.
+EventWomanInTub.button1,Kontynuuj.
+EventBathroomUseToiletAlone.button1,Kontynuuj.
+EventBathroomWomanTransform.text,Nagle wracasz do swojego ciała. Kobieta ciska tobą o podłogę, gdy jej ciało zaczyna się wykrzywiać w niemożliwy sposób.
+EventBathroomWomanTransform.button1,Kontynuuj.
+SpawnBathroomHound.text,Ramiona kobiety zaczynają się wydłużać z trzaskiem. Kręgi na plecach obracają się pod skórą, którą przebijają tworząc kostne wypustki.\nTwarz zaczyna się zmieniać. Mięśnie i kości pod skórą zaczynają rozciągać jej twarz, powodując przerażający okrzyk bólu.\nKrzyk przechodzi powoli w wycie, gdy kobieta unosi swoje dłonie, teraz zakończone w potężne szpony, i wyrywa swoje oczy.\nW końcu wpycha pazury pomiędzy szczęki i rozrywa je.\nMięśnie i ścięgna pękają. Z rozerwanych ust wydobywa się mokry, łuszczący pysk, a reszta jej jeszcze przed chwilą pięknej powłoki, osuwa się na ziemię jak upuszczony, krwawy płaszcz.\nPrzed tobą staje bestia, której nie byłbyś w stanie wyśnić w najgorszych koszmarach.\n\nUmieść figurkę {type} we wskazanym miejscu.\nOtrzymujesz 2 karty Przerażenia ({will} zapobiega).\n
+SpawnBathroomHound.button1,Kontynuuj.
+EventBathroomSearchCabinet.text,Otwierasz szafkę, patrząc co jest w środku. Widzisz całkiem sporo kosmetyków do makijażu i pielęgnacji włosów. Odsuwasz je na bok i za nimi znajdujesz kilka świec.\n\nZyskujesz przedmiot powszechny {c:QItemLightsource_BathroomCandles}.\nUsuń ten żeton Przeszukiwania.
+EventBathroomSearchCabinet.button1,Kontynuuj.
+EventStairsExplore1.text,Otwierasz drzwi i widzisz długą, wyłożoną ozdobnym dywanem klatkę schodową.\n\nUmieść kafelek {c:TileStairsUp} we wskazanym miejscu.\n\nUmieść dwa żetony Drzwi we wskazanych miejscach.
+EventStairsExplore1.button1,Kontynuuj.
+EventHallStairsRightDoor.text,Drzwi po prawej prowadzą, prawdopodobnie do kolejnej sypialni.\n\nUmieść żeton Eksploracji wskazanym miejscu.
+EventHallStairsRightDoor.button1,Kontynuuj.
+TokenStairsExploreTop.text,Drzwi do prawdopodobnie kolejnej sypialni.
+TokenStairsExploreTop.button1,{action} Eksploruj.
+EventStairsDoorBottom.text,Drzwi u podnóża schodów prowadzą w głąb budynku.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventStairsDoorBottom.button1,Kontynuuj.
+TokenStairsBottomExplore.button1,{action} Eksploruj.
+EventStairsWallToken.text,Zza drzwi po twojej lewej stronie słyszysz głośny hałas, a po nim kłócące się głosy, należące do mężczyzny i kobiety.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+TokenStairsBottomExplore.text,Drzwi u podstawy schodów.
+EventStairsWallToken.button1,Kontynuuj.
+EventStairsMoveIn.text,Możesz przemieścić się o jedno pole na eksplorowany obszar.\n\nUsuń ten żeton Eksploracji.
+EventStairsMoveIn.button1,Kontynuuj.
+EventHoundDead.text,Cielsko potwora pada na ziemię. Długi język zwisa bezwładnie z martwej paszczy. Ostatnie, bulgoczące tchnienie wydobywa się gdzieś z trzewi potwora.\n\nZyskujesz przedmiot powszechny {c:QItemEquipment_Hound}.
+EventHoundDead.button1,Kontynuuj.
+EventStairsExploreRightBedroom.text,Po lewej stronie od wejścia znajduje się niewielki sekretarzyk.\nNa blacie leży wycinek ze starej gazety.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventStairsExploreRightBedroom.button1,Kontynuuj.
+TokenNewspaper03.text,Wycinek ze starej gazety.
+TokenNewspaper03.button1,{action} Przeszukaj.
+EventBedroom2PlacePainting.text,Na ścianie wisi obraz przedstawiający matkę z córką.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventBedroom2PlacePainting.button1,Kontynuuj.
+TokenCreepyPainting.text,Obraz przedstawiający matkę z córką.
+TokenCreepyPainting.button1,{action} Przeszukaj.
+EventBedroom2PlaceWall.text,Usuń ten żeton Eksploracji.\nMożesz przemieścić się o jedno pole na eksplorowany obszar.
+EventBedroom2PlaceWall.button1,Kontynuuj.
+EventBedroomExploreCreepyPainting.text,Na ścianie wisi obraz przedstawiający matkę i jej młodą córkę. Zakładasz, że to musi być Grace  i Mildred Bechman.\n Ogarnia cię uczucie lęku gdy nagle zauważasz, że twarz matki przedstawia grymas złości.\n\nPrzyjmujesz 1 zakrytą kartę Przerażenia ({will} zapobiega).
+EventBedroomExploreCreepyPainting.button1,Kontynuuj.
+EventBedroom2RevealSecretDoor.text,Ściągasz obraz ze ściany żeby lepiej mu się przyjrzeć. Jesteś zaskoczony, gdy w ścianie za obrazem znajdujesz wbudowany zamek szyfrowy.\n\nUsuń ten żeton przeszukiwania.\nZyskujesz 1 Wskazówkę {clue}.
+EventBedroom2RevealSecretDoor.button1,Kontynuuj.
+EventBedroomOpenSecretDoor.text,Aż podskakujesz słysząc za sobą odgłos. Odwracasz się i widzisz, że regał na książki dsunął się odsłaniając ukryte drzwi.\n\nZastąp żeton Ściany żetonem tajnego przejścia we wskazanym miejscu i usuń ten żeton Interakcji.
+EventBedroomOpenSecretDoor.button1,Kontynuuj.
+EventBellTowerPlace.text,Zerkasz w ciemność za regałem i czujesz rześki powiew na twarzy. schody wznoszą się przed tobą prowadząc na szczyt małej wieży, na której wisi stary, pęknięty dzwon.\n\nUmieść kafelek {c:TileSecretRoom} we wskazanym miejscu.
+EventBellTowerPlace.button1,Kontynuuj.
+TokenBellTowerOverlook.text,Z wieży rozciąga się widok na cały teren posiadłości.
+TokenBellTowerOverlook.button1,{action} Przeszukaj.
+TokenScrolls.text,Zakurzona, stara beczka.
+TokenScrolls.button1,{action} Przeszukaj.
+EventBellTowerBarrell.text,Obok schodów stoi stara, zakurzona beczka.\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventBellTowerBarrell.button1,Kontynuuj.
+EventBellTowerOverlookTokenAdd.text,Duży, pęknięty dzwon wisi na szczycie wieży. Przez okno mógłbyś rozejrzeć się po posiadłości.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventBellTowerOverlookTokenAdd.button1,Kontynuuj.
+EventBedroom2Code.text,Umieść żeton Interakcji we wskazanym miejscu.\n\nMożesz spróbować otworzyć zamek w oparciu o swoją Spostrzegawczość {observation}.
+EventBedroom2Code.button1,Kontynuuj.
+TokenBedroom2Puzzle.text,Możesz spróbować otworzyć zamek w oparciu o swoją {observation}.
+TokenBedroom2Puzzle.button1,{action} Otwórz.
+EventClipping04.button1,Kontynuuj.
+PuzzleBedroom2Puzzle.button1,Sprawdź
+EventClipping03.text,\nPodnosisz wycinek z biurka i przyglądasz mu się dokładnie. Widnieje na nim zdjęcie kilku chirurgów i pielęgniarek zebranych wokół pacjentki. Podpis pod zdjęciem brzmi:\n\n<i> Chirurdzy ze Szpitala Św. Trójcy w Innsmouth przeprowadzili cudowną operację, celem uratowania życia Grace Bechman. Pacjentka jest obecnie w stanie stabilnym i oczekuje na wyjście ze szpitala i powrót do domu.</i>\n
+EventTakeSigil.text,"Trzymasz w ręku Pieczęć Kultu, gotowy zapytać o nią Bechmana, jednak zanim zdążysz to zrobić, gospodarz mówi:\n\n<i>""Wszystko co na tę chwilę powinieneś o niej wiedzieć to to, że cię wybrała.""</i>\n"
+EventTakeSigil.button1,Kontynuuj.
+Eventsigilofpower.text,"Gospodarz wieczoru zachęca cię, gdy spoglądasz na niego pytająco:\n<i>""Powiedz: 'Z własnej woli przyjmuję Pieczęć i związane z nią powinności. Krew za krew.'\nNo dalej, to tylko zabawa.""</i>"
+Eventsigilofpower.button1,Powtórz Słowa.
+Eventsigilofpower.button2,Zachowaj milczenie.
+Eventsilent01.text,"<i>""No dalej. Nie możemy kontynuować jeśli oficjalnie nie zakończysz zabawy.""</i>\nPan Bechman przypomina ci jeszcze raz słowa kończące zabawę:\n<i>""Z własnej woli przyjmuję Pieczęć i związane z nią powinności. Krew za krew.""</i>"
+Eventsilent01.button1,Powtórz Słowa.
+Eventsilent01.button2,Zachowaj milczenie.
+EventStaySilent02.text,"Pan Bechman wydaje się lekko sfrustrowany:\n<i>""No dalej człowieku. Nie psuj wszystkim zabawy!\nPowiedz: 'Z własnej woli przyjmuję Pieczęć i związane z nią powinności. Krew za krew.'""</i>"
+EventStaySilent02.button1,Powtórz Słowa.
+EventStaySilent02.button2,Zachowaj milczenie.
+EventStaySilent03.text,"Howard Bechman zwraca się do ciebie:\n<i>""Zdajesz sobie sprawę, że czeka już na nas wspaniały deser?\nJednak zabawa nie zakończy się dopóki nie wypowiesz słów 'Z własnej woli przyjmuję Pieczęć i związane z nią powinności. Krew za krew.'""</i>\n\nPozostali goście zachęcają cię krzykami, żebyś dokończył zabawę. Nawet Mildred ze swojego fotela woła:\n<i>""No dalej! Będzie zabawnie!""</i>\n"
+EventStaySilent03.button1,Powtórz Słowa.
+EventStaySilent03.button2,Zachowaj milczenie.
+EventBellTowerFindScrolls.text,Odsuwasz wieko beczki, a twoim oczom ukazuje się kilka starych zwojów pergaminu. Przeglądając je natrafiasz na jeden, przedstawiający olbrzymią, skrzydlatą kreaturę.\nJej zaokrąglona głowa okolona jest wijącymi się mackami.\nJej oczy pozbawione są jakiegokolwiek życia, są zimne jak pustka kosmosu. Stworzenie otoczone jest słowami zapisanymi w jakimś starożytnym języku ({lore}).
+EventBellTowerFindScrolls.button1,Kontynuuj.
+EventBellTowerScrollSuccess.text,W nieludzki sposób pojmujesz znaczenie słów, i moc zaczyna cię otaczać gdy je czytasz.\n\nZyskujesz Zaklęcie {c:QItemSpell_SecretRoom}.\nUsuń ten żeton Przeszukiwania.
+EventBellTowerScrollSuccess.button1,Kontynuuj.
+EventBellTowerFindScrolls.button2,Niezdane.
+EventBellTowerFailScroll.text,Słowa rozmywają się gdy próbujesz się im przyjrzeć dokładniej. Nie potrafisz uchwycić sensu archaicznego języka.\n\nUsuń ten żeton Przeszukiwania.
+EventBellTowerFailScroll.button1,Kontynuuj.
+EventBellTowerLook.text,Spoglądasz na podwórze z twarzą omiataną nocnym powietrzem. Ponad zwyczajne nocne odgłosy wybijają się odgłosy śpiewów. Przeczesujesz wzrokiem okolicę, aż twoje spojrzenie pada na ciemną sylwetkę odcinającą się w świetle księżyca.\nPróbując przyjrzeć się dokładniej wyłapujesz chwilę, gdy światło księżyca rozświetla jej twarz. Czy to może być Sylvia Marsh?
+EventBellTowerLook.button1,Kontynuuj.
+EventBellTowerRingBell.text,Śpiew ustaje i Sylvia spogląda w górę, patrząc wprost na ciebie ({agility}-1).\n
+EventBellTowerRingBell.button1,Kontynuuj.
+SpawnBellTowerByakhee1stSpawn.button1,Kontynuuj.
+EventBellTowerByakhee2ndSpawn.text,Zaskoczony, cofasz się i przewracasz uderzając o dzwon.\n\nPrzyjmujesz 1 zakrytą kartę Obrażeń.\n\nUsuń ten żeton Przeszukiwania.
+EventBedroomSearchTokenPainting.text,Gdy wzrok zaczyna przyzwyczajać się do otoczenia, zauważacie obraz wiszący po prawej. Obraz przedstawia piękną kobietę ubraną całą na czarno.\n\nPołóż żeton Przeszukiwania we wskazanym miejscu.
+EventBedroom01SearchDresser.button1,Kontynuuj.
+EventLoungeRepeatWords.text,"Z ociąganiem powtarzasz słowa:\n<i>"" Z własnej woli przyjmuję Pieczęć i związane z nią powinności. Krew za krew.""</i>"
+EventLoungeRepeatWords.button1,Kontynuuj.
+EventLoungeAcceptBolt.text,"Trzymając Pieczęć w dłoni czujesz obcą energię przebiegającą po niej jak elektryczność. Przez moment w umyśle pojawia ci się obraz świata gdzie po obcym niebie latają wielkie, skrzydlate stworzenia, a dziwne wyglądające jak demony istoty pastwią się nad zbłąkanymi duszami.\nJedną z tych dusz jest piękna młoda kobieta. Rozpoznajesz w niej Grace Bechman.\nKobieta spogląda na ciebie i zaczyna krzyczeć: <i>\n""Zmarli muszą spoczywać w spokoju! Muszą spoczywać w spokoju!""</i>.\nJej głos odbija się echem od czarnych, skalnych ścian, które cię otaczają. Zwielokrotnione przez echo słowa stają się niezrozumiałe i zaczynają brzmieć jak jakiś starodawny, bluźnierczy język.\n\nOtrzymujesz 2 karty Przerażenia ({will}-1 zapobiega).\n\nOtrzymujesz Zaklęcie {c:QItemSpell_Box}."
+EventLoungeAcceptBolt.button1,Kontynuuj.
+EventGroupThroughDoor.text,Goście wydają jednogłośnie krzyk aprobaty, a Howard Bechman prowadzi ich do jadalni przez główną klatkę schodową. Wszyscy wychodzą zostawiając za sobą uchylone drzwi.\n\nUsuń wszystkie wskazane żetony Osób.\n\n<i>Przedmiotu {c:QItemCultSigil} nie można przekazać innemu Badaczowi. Przedmiot ten nie może zostać odrzucony ani upuszczony.</i>\n
+EventGroupThroughDoor.button1,Kontynuuj.
+EventNewspaper01.text,"Wysuwasz szufladę i w środku znajdujesz wycinek z gazety. Widnieje na nim zdjęcie Grace Bechman. Podpis pod zdjęciem brzmi: \n\n<i>""Pani Grace Bechman, w tę sobotę, poprowadzi zbiórkę na rzecz działalności Sierocińca w Innsmouth.""</i>"
+EventNewspaper01.button1,Kontynuuj.
+EventBackPaper01.text,Odwracasz wycinek żeby zobaczyć co znajduje się po drugiej stronie. Odkrywasz, że ktoś tam napisał czymś co wygląda jak zaschnięta krew:\n\n<i>Muszą\n907</i>
+EventBackPaper01.button1,Kontynuuj.
+EventGainPaperDead.button1,Kontynuuj.
+EventNewspaperFlip02.button1,Kontynuuj.
+EventClipping04.text,Fragment gazety przedstawia zdjęcie grace Bechman. Podpis pod zdjęciem brzmi:\n\n<i>Pani Grace Bechman, powyżej, zmarłą w zeszłą środę po tym jak zapadła na zapalenie płuc podczas rekonwalescencji po przebytej operacji. Uroczystości pogrzebowe odbędą się w kościele Św. Jana Ewangelisty w ten czwartek o godzinie 10:00.</i>
+EventClipping03.button1,Kontynuuj.
+EventflipClipping03.text,Odwracasz wycinek. Na odwrocie, widnieje krwawy napis:\n\n<i>Spoczywać\n343</i>
+EventflipClipping03.button1,Kontynuuj.
+EventNewspaper03remove.text,Zyskujesz 1 Wskazówkę {clue}.\nUsuń ten żeton przeszukiwania.
+EventNewspaper03remove.button1,Kontynuuj.
+EventEntrywayPlace.text,Otwierasz drzwi i widzisz duże lobby.\n\nUmieść kafelek {c:Tileentry} we wskazanym miejscu.
+EventEntrywayPlace.button1,Kontynuuj.
+TokenLobbyCorespondance.text,Zwyczajnie wyglądająca szafka.
+TokenLobbyCorespondance.button1,{action} Przeszukaj.
+EventLobbyLetter.text,Po prawej stoi zwyczajnie wyglądająca szafka.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventLobbyLetter.button1,Kontynuuj.
+TokenNewspaper04.button1,{action} Przeszukaj.
+TokenNewspaper04.text,Szafka z rośliną stojącą na niej.
+EventLobbyNewspaper4.text,Kolejna szafka stoi po przeciwnej stronie pomieszczenia.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventLobbyNewspaper4.button1,Kontynuuj.
+TokenLobbyDinningRoomExplore.button1,{action} Eksploruj.
+EventLobbyDoorToken.text,Drewniana tabliczka na drzwiach głosi: <i> Jadalnia</i>. \n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventLobbyDoorToken.button1,Kontynuuj.
+EventLobbyMovIn.text,Usuń ten żeton Eksploracji.\n\nMożesz przemieścić się o jedno pole na eksplorowany obszar.
+EventLobbyMovIn.button1,Kontynuuj.
+EventLobbySearchCorrespondance.text,Próbujesz otworzyć szufladę ale się zacięła ({strength}).
+EventLobbySearchCorrespondance.button1,Kontynuuj.
+EventLobbyCabinetSuccess.text,Udaje ci się wyciągnąć szufladę. W środku znajdujesz list zaadresowany do Pana Howarda Bechmana. Otwierasz list i czytasz:\n\n<i>Szanowny Panie Bechman,</i>\n\n<i>Serdecznie dziękuję za entuzjastyczną opinię o moim odczycie na temat Nekrofizyki. Ponadto, bardzo dziękuję za szczodrą daninę na kontynuację moich badań. Jak Pan zapewne rozumie, wiele osób podchodzi bardzo sceptycznie do możliwości człowieka w zakresie dotarcia do tych, którzy znaleźli się w zaświatach. Jednakże, dzięki pomocy ludzi o otwartych umysłach, takich jak Pan, gotowych wspierać tę kwitnącą dziedzinę wiedzy, jestem pewna, że w najbliższej przyszłości, wszyscy poznają wagę tego co próbujemy osiągnąć.</i>\n
+EventLobbyCabinetSuccess.button1,Kontynuuj.
+EventLobbyCorrespondanceGainClue.text,<i>\nW odpowiedzi na Pańskie pytanie. Tak. Jestem świadoma okoliczności śmierci Pańskiej żony. Z pewnością były one tragiczne. Jednak, tak jak Pan, wierzę, że moje badania będą mogły potencjalnie pomóc w tej kwestii. Natknęłam się ostatnio na nowe badania mogące Pana bardzo zainteresować. Proszę mnie niezwłocznie powiadomić, a rozpocznę przygotowania do wizyty.</i>\n\n<i>Z wyrazami szacunku,</i>\n<i>Sylvia Marsh</i>\n\nZyskujesz 1 Wskazówkę {clue}.\nUsuń ten żeton Przeszukiwania.
+EventLobbyCorrespondanceGainClue.button1,Kontynuuj.
+EventLobbySearchCorrespondance.button2,Niezdane.
+EventLobbyDrawerfail.text,Szuflada się nie poddaje i ani drgnie.
+EventLobbyDrawerfail.button1,Kontynuuj.
+EventLobbySearchPaper04.text,Podchodzisz do szafki, żeby przyjrzeć się roślinie.\nSpod doniczki wystaje wycinek gazety.
+EventLobbySearchPaper04.button1,Kontynuuj.
+EventNewspaperBack04.text,Odwracasz wycinek. Z tyłu jest krwawy napis:\n\n<i>Zmarli\n634</i>
+EventNewspaperBack04.button1,Kontynuuj.
+TokenLobbyDinningRoomExplore.text,Drzwi podpisane: <i>Jadalnia</i>.
+EventLobbyRemoveClippin04.text,Usuń ten żeton Przeszukiwania.\nZyskujesz 1 Wskazówkę {clue}.
+EventLobbyRemoveClippin04.button1,Kontynuuj.
+EventDinningRoomAdd.text,Otwierasz drzwi i znajdujesz ludzi z przyjęcia zebranych przy stole. Jedzą deser i prowadzą ożywioną konwersację.\n\nUmieść kafelek {c:TileDiningKitchen} we wskazanym miejscu.\n\nUmieść żetony osób we wskazanych miejscach.\n\nUmieść żeton Drzwi we wskazanym miejscu.
+EventDinningRoomAdd.button1,Kontynuuj.
+TokenWhiteWoman2.text,Przyzwoicie wyglądająca kobieta ubrana na biało.
+TokenGreyMan2.text,Łysiejący mężczyzna ubrany w drogi szary garnitur.
+TokenPurpleWoman2.text,Kobieta o umiarkowanych poglądach, siedzi obok mężczyzny, którego widziałeś w korytarzu.
+TokenYellowMan2.text,Wysoki, chudy mężczyzna, wyraźnie próbuje przekonać do czegoś kobietę siedzącą obok niego.
+TokenBlueWoman2.text,Piękna kobieta, w długiej niebieskiej sukni, siedzi i grzecznie rozmawia z chudym mężczyzną obok niej.
+EventRedManItems.text,Nowy Badacz otrzymuje przedmiot powszechny {c:QItemFirearm_NewInvestigator}.
+EventStart.button1,Kontynuuj.
+UIOpeningText01.button1,Kontynuuj.
+EventDinningPlaceMrBechmans.text,Howard Bechman i Ammi Pierce prowadzą w kuchni ożywioną konwersację.\n\nJedynie Badacz posiadający przedmiot <b>{c:QItemCultSigil}</b> może wejść w interakcję z Howardem Bechmanem.
+EventDinningPlaceMrBechmans.button1,Kontynuuj.
+EventDinningBasementDoor.text,Zwyczajnie wyglądające drzwi. Drewniany napis brzmi:\n<i>Piwnica</i>\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+TokenExploreChamber.text,Spod tych drzwi wydobywa się niepokojące zielone światło.
+EventDinningBasementDoor.button1,Kontynuuj.
+EventDinningMoveIn.text,Możesz przemieścić się o jedno pole na eksplorowany obszar.\n\nUsuń ten żeton Eksploracji.
+EventDinningMoveIn.button1,Kontynuuj.
+TokenAmmi2.text,Ammi Pierce.
+TokenMrBechman2.text,Tylko badacz posiadający przedmiot <b>{c:QItemCultSigil}</b> może wejść w interakcję z Howardem Bechmanem.
+TokenMrBechman2.button1,{action} Rozmawiaj.
+EventDinningTalkBechman.text,"<i>""Ah, tu jesteś.""</i> mówi Howard Bechman na twój widok.\n<i>""Zaczynałem się zastanawiać czy się w ogóle pojawisz""</i>"
+EventDinningTalkBechman.button1,Dzieją się tu jakieś dziwne rzeczy.
+EventDinningTalkBechman.button2,Muszę cię ostrzec przed Sylvią Marsh
+EventDinningTalkBechman.button3,Zachowaj milczenie.
+EventStrangeStuff.text,"Zaczynasz mu wyliczać wszystkie dziwne wypadki, które spotkały cię od momentu przebudzenia, jednak Howard Bechman ucisza twoją wyliczankę.\n\n<i>""Tak . Ta posiadłość skrywa wiele sekretów, jednak teraz nie czas na rozprawianie o nich. Mam ci do pokazania coś o wiele ważniejszego""</i>\n\nSylvia Marsh wychodzi z drzwi opisanych jako <i>Piwnica</i> ({strength} -1)."
+EventStrangeStuff.button1,Kontynuuj.
+EventStrangeStuff.button2,Niezdane.
+EventDinningPassStrength.button1,Kontynuuj.
+EventDinningSylviaMarshStabsBechman.button1,Kontynuuj.
+EventBechmaFailStrength.text,"Czujesz jak coś ciężkiego uderza cię w tył głowy i pomieszczenie zaczyna wirować, a Ammi Pierce łapie cię. Ostatnią rzeczą, którą słyszysz jest dobiegający z piwnicy głos Sylvii Marsh <i>""Ammi tutaj!""</i>.\nZostajesz zaniesiony do piwnicy, a potem wszystko skrywa mrok."
+EventBechmaFailStrength.button1,Kontynuuj.
+Eventnewborn.text,Spoglądasz na samego siebie zaraz po urodzeniu, płaczącego z zimna, leżącego w jasnej, szpitalnej sali.
+Eventnewborn.button1,Kontynuuj.
+TokenBesementExplore.text,Zza drzwi dochodzą dziwne odgłosy.
+EventMagicDoor.text,Przyglądasz się drzwiom jednak nie widzisz niczego co przypominałoby klamkę ({lore).
+EventMagicDoor.button1,Kontynuuj.
+EventMagicDoor.button2,Niezdane.
+EventFailBasementDoorTest.button1,Kontynuuj.
+EventBesementDoorPass.button1,907088902634
+EventBesementDoorPass.button2,634088343907
+EventBesementDoorPass.button3,343634088907
+EventBesementDoorPass.button4,88907634343
+EventBesementDoorPass.button5,634907343088
+EventBesementDoorPass.button6,343907634088
+EventBesementDoorPass.button7,907343088634
+EventBesementDoorPass.button8,88634907343
+EventFailBasementDoorTest.text,Dookoła drzwi świecą ledwie dostrzegalne, zielone znaki. Jednak nie potrafisz przypomnieć sobie gdzie je już widziałeś. Sfrustrowany, postanawiasz wyważyć drzwi. Uderzenie jest bolesne, a drzwi pozostają niezmiennie na swoim miejscu.\n\nPrzyjmujesz 1 zakrytą kartę Obrażenia ({strength} zapobiega).\n
+EventMagicDoorFail.text,Znaki zaczynają świecić mocniej bladym, zielonym światłem.\nZamknięcie oczu nic nie daje. Światło przenika, przez zamknięte powieki prosto do Twojego mózgu, znacząc boleśnie swój bluźnierczy ślad w twojej psychice.\n\nPrzyjmujesz 2 karty Przerażenia ({will}-1 zapobiega).
+EventMagicDoorFail.button1,Kontynuuj.
+EventMagicDoorSuccess.text,Drzwi zaczynają wibrować, a zielone promienie zaczynają tańczyć po suficie. Cofasz się gdy drzwi stają przed tobą otworem.\n\nUsuń ten żeton Oddziaływania.
+EventMagicDoorSuccess.button1,Kontynuuj.
+TokenMagicDoorSuccessNewToken.button1,{action} Interakcja.
+TokenMagicDoorSuccessNewToken.text,Dziwne, ledwie widoczne, zielone runy świecą dookoła drzwi. Rozpoznajesz w nich starożytne liczby. Gdy ich dotykasz, zaczynają się zmieniać, formując się w nowe sekwencje.\nJako akcję możesz podjąć próbę podania właściwej kombinacji cyfr.
+,88907634343
+EventBalconyMoveIn.text,Możesz przemieścić się o jedno pole na eksplorowany obszar.\n\nUsuń ten żeton Eksploracji.
+EventBalconyMoveIn.button1,Kontynuuj.
+EventPlaceGraceObject.text,Za plecami słyszysz odgłos otwieranych drzwi. Powoli łapiesz oddech i zauważasz jakiś przedmiot w miejscu, gdzie chwilę temu pojawił się duch Grace.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.\nUsuń żeton Eksploracji z drzwi.
+EventPlaceGraceObject.button1,Kontynuuj.
+UIOpeningText04.uitext,\n<i>I dziś, skoro drżąca srebrzystość miesiąca\nI gwiazd pozłocistych rój lśni,\nŚnię o niej i czuję na sobie płonące\nOczy pięknej Annabel Lee.\nI co noc w snów bieli, wśród srebrnej topieli,\nSpoczywam z nią razem na zimnej pościeli,\nTam w jej królestwie nad mórz pianą,\nTam w jej mogile pod mórz pianą...\n\nEdgar Allen Poe, <i>Annabel Lee</i>\n\n<b>Kontynuuj.</b></i>
+UIOpeningText04.button1,Kontynuuj.
+TokenExploreToBasementStairs.text,Zwyczajnie wyglądające drzwi z napisem:\n<i>Piwnica</i>
+TokenExploreToBasementStairs.button1,{action} Eksploruj.
+EventRemoveInvestigator.text,Usuń żetony Osób Ammi Pierce'a i Howarda Bechmana.\n\n<b>Usuń z gry Badacza z przedmiotem {c:QItemCultSigil}. Nie bierze on już udziału w dalszej rozgrywce. Usuń wszystkie jego przedmioty, karty Obrażeń i Przerażenia. Zachowaj jednak stany Ranny i Obłąkany.\n\nUwaga! : Nie powoduje to zakończenia gry.</b>
+EventRemoveInvestigator.button1,Kontynuuj.
+EventRedManReveal.text,"Nagle, Bobby Foster krzyczy:\n<i>""Szybko! Jest jeszcze czas!""</i>"
+EventRedManReveal.button1,Kontynuuj.
+TokenRedMan3.text,Dostojnie wyglądający dżentelmen.
+EventRedManItems.button1,Kontynuuj.
+EventRedManExplanation.text,"Były Bobby Foster Krzyczy:\n<i>"" Nie mam czasu na wyjaśnienia, ale jestem członkiem Kultu Kthanid, brata i wroga Wielkiego Przedwiecznego Cthulhu. Obserwowaliśmy lady Marsh od pewnego czasu. Wierzymy, że jest kapłanką Rlim Shaikortha, Białego Robaka. Chce przywrócić do życia lady Bechman, żeby ta posłużyła jako brama pomiędzy światami.\nMusimy ją powstrzymać zanim będzie za późno!""</i>"
+EventRedManExplanation.button1,Kontynuuj.
+SpawnWhiteWormCult01.text,Ludzie wokół stołu zaczynają się podnosić, intonują pieśń w języku, którego nie rozumiesz.\n\nUsuń wszystkie żetony Osób z jadalni i umieść figurkę {type} (zamieszki) we wskazanym miejscu w jadalni.
+EventNewInvestGetSpell.text,Nowy Badacz otrzymuje Zaklęcie {c:QItemSpell_NewInvestigator}.
+EventNewInvestGetSpell.button1,Kontynuuj.
+CustomMonsterWhiteWormCultMembers01.monstername,Kultyści Białego Robaka
+CustomMonsterWhiteWormCultMembers01.info,-
+SpawnWhiteWormCult01.button1,Kontynuuj.
+TokenAmmi2.button1,Kontynuuj.
+EventCellarPlace.text,Usuń ten żeton Eksploracji i umieść kafelek {c:TileBasementLanding} we wskazanym miejscu.
+EventCellarPlace.button1,Kontynuuj.
+EventCellarPlaceExploreToken.text,Słyszysz niepokojące odgłosy dochodzące zza drzwi.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventCellarPlaceExploreToken.button1,Kontynuuj.
+EventBasementAddDarkness.text,Umieść żeton Ciemności na każdym polu obszaru {c:TileBasementLanding}.
+EventBasementAddDarkness.button1,Kontynuuj.
+EventBesementDoorPass.text,Wybierz poprawną kombinację.
+TokenExploreChamber.button1,{action} Eksploruj.
+TokenBesementExplore.button1,{action} Eksploruj.
+EventBasementExplore.text,Gdy otwierasz drzwi, twoim oczom ukazuje się pomieszczenie rozświetlane jedynie dziwną zieloną poświatą, która przesącza się spod drzwi naprzeciwko ciebie.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventBasementExplore.button1,Kontynuuj.
+SpawnBasementNightgaunt.button1,Kontynuuj.
+TokenBasementPlainDoor.button1,{action} Eksploruj.
+EventBasementPlacePlainDoor.text,W pomieszczeniu znajdują się jeszcze jedne drzwi.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+TokenBasementPlainDoor.text,Zwyczajnie wyglądające drzwi.
+EventBasementPlacePlainDoor.button1,Kontynuuj.
+EventBasementOpenPlainDoor.text,Drzwi otwierają się skrzypiąc. Za nimi znajduje się małe pomieszczenie pełnie najróżniejszych narzędzi.\n\nUsuń ten żeton Eksploracji i umieść żeton Przeszukiwania we wskazanym miejscu.\n\nMożesz przemieścić się o jedno pole na Eksplorowany obszar.
+EventBasementOpenPlainDoor.button1,Kontynuuj.
+TokenBasementTools.button1,{action} Przeszukaj.
+EventBasementRandomTool.text,Rozglądając się znajdujesz przedmiot powszechny {c:QItemEquipment_Tools}.\n\nUsuń ten żeton Przeszukiwania.
+TokenBasementTools.text,W małym pomieszczeniu znajduje się wiele narzędzi.
+EventBasementRandomTool.button1,Kontynuuj.
+EventChamberAdd.text,Przed tobą znajduje się puste pomieszczenie, na którego środku stoi kamienny ołtarz wykonany z czarnego kamienia.\n\nUmieść kafelek {c:TileCeremonyRoom} we wskazanym miejscu.
+EventChamberAdd.button1,Kontynuuj.
+CustomMonsterSylviaMarshMonster.info,-
+CustomMonsterSylviaMarshMonster.monstername,Kapłanka Sylvia Marsh
+EventCeremonyHowardBechmanToken.text,Howard Bechman stoi obok ołtarza, wpatrując się w ciało żony.
+EventCeremonyHowardBechmanToken.button1,Kontynuuj.
+SpawnSylviaMarsh.text,U szczytu ołtarza stoi Sylvia Marsh, śpiewając pieśń w języku, którego nie jesteś w stanie zrozumieć. Uderzenia mocy otaczają ją wydobywając światło wprost z ciemności.\n\nWystaw figurkę {type} (Wiedźma) we wskazanym miejscu.
+SpawnSylviaMarsh.button1,Kontynuuj.
+EventSpawnGraceHoward.button1,Kontynuuj.
+EventSpawnGraceHoward.text,Na ołtarzu spoczywa ciało Grace Bechman. Jej twarz jest szara i zapadnięta, ciało kruche, skóra zaczęła odchodzić od kości. Obok niej, związany i zakneblowany leży twój towarzysz. W jego oczach widzicie paniczny strach. U stóp ołtarza, ze złożonymi rękami, pogrążony w modlitwie stoi Howard Bechman.\n\nUmieść żetony Grace Bechman i Howarda Bechmana we wskazanych miejscach.
+EventCeremonyRemoveHead.button1,Kontynuuj.
+EventCeremonyMarshsReunited.text,Sylvia Marsh, nie przerywając śpiewu,  skrapia krwią wypływającą z odciętej głowy, ciało Grace Bechman.\nZapadnięta skóra, unosi się i napina. Mięśnie i ścięgna znów zaczynają wypełniać ciało. Żyły zaczynają pulsować gdy serce znów zaczyna pompować w nie krew. \nCiało Grace wygina się w łuk wraz z pierwszym haustem powietrza wciągniętym do jeszcze przed chwilą zapadniętych płuc. Howard Bechman podbiega do ciała żony. Niezdolny do wymówienia choćby słowa, łka cicho trzymając ją w ramionach.
+EventCeremonyRemoveHead.text,"Ze zdobnym sztyletem w dłoni, Sylvia Marsh postępuje do przodu i szepcze:\n <i>""Zostałeś wybrany przez Pieczęć""</i>. \nJednym płynnym ruchem odcina głowę twojego towarzysza."
+EventCeremonyMarshsReunited.button1,Kontynuuj.
+EventGracesWarning.text,"Oddech Grace się uspokaja. Ze strachem rozgląda się po pomieszczeniu. Jedynym co zna i rozpoznaje jest jej mąż. Chwyta go za ramię i mówi: <i>"" On nadchodzi! Musisz ją powstrzymać! On nadchodzi! Zabij mnie! Zmarli muszą spoczywać w spokoju! Zmarli muszą spoczywać w spokoju! Zabij mnie zanim...""</i>.\n"
+EventGracesWarning.button1,Kontynuuj.
+EventGraceSpasm.text,"Ostatnie słowa Grace milkną jak ucięte nożem. Jej oddech znów staje się przyspieszony i niespokojny. Zaczyna panicznie drapać pulsujący obrzęk, który pojawił się na jej szyi. Zaczyna się dławić, a z jej siłą otwartych ust zaczyna wyłaniać się, rozrywając tkanki, biały robak. \nRobak spada na podłogę z przyprawiającym o mdłości mlaśnięciem.\nNagle zaczyna rosnąć. Przewraca przerażonego Howarda Bechmana i zaczyna go pożerać. \nHoward wydaje się pogodzony ze swoim losem. Patrzy ci prosto w oczy i samymi ustami szepcze <i>"" Nareszcie spokój""</i>. Bezsilnie obserwujesz jak znika w trzewiach wciąż rosnącego, wijącego się, białego koszmaru.\n\nOtrzymujesz 2 zakryte karty Przerażenia ({will} zapobiega)."
+EventGraceSpasm.button1,Kontynuuj.
+CustomMonsterWhiteWorm.info,-
+SpawnWhiteWorm.text,Umieść figurkę {type} (chtonianin) we wskazanym miejscu.\nUsuń żetony Bechmanów.\nMożesz przemieścić się o jedno pole na eksplorowany obszar.
+CustomMonsterWhiteWorm.monstername,Biały Robak
+SpawnWhiteWorm.button1,Kontynuuj.
+EventBasementRemoveExplore.text,Usuń ten żeton Eksploracji.\nmożesz przemieścić się o jedno pole na eksplorowany obszar.
+EventBasementRemoveExplore.button1,Kontynuuj.
+EventHowardJournalPrivate4.button1,Kontynuuj.
+EventHowardJournalPrivate1.button1,Kontynuuj.
+EventHowardJournalPrivate2.text,<i>I attended an interesting lecture the other night by a Lady Sylvia Marsh. She purports to be able to speak for the dead. I went as a skeptic, of course, but after witnessing her demonstrations I began to wonder if there might be something to this </i>Necrophysics<i> as she calls it.</i>
+EventAddBechmanJournal.text,Po prawej od drzwi stoi biurko.\n\nUmieść żeton Przeszukiwania we wskazanym miejscu.
+EventAddBechmanJournal.button1,Kontynuuj.
+EventKitechenDelayed.text,Gdy chcesz ostrzec Howarda Bechmana przed Sylvią Marsh dokładnie w momencie gdy ta wychodzi przez drzwi oznaczone jako <i>Piwnica</i> ({strength} -1).
+EventKitechenDelayed.button1,Kontynuuj.
+EventKitechenDelayed.button2,Niezdane.
+EventKitchenSayNothing.text,"Milczysz zastanawiając się od czego w ogóle zacząć.\n\n<i>""Zastanawiałem się czy zechciałbyś mi towarzyszyć. Chciałbym ci pokazać coś wyjątkowego.""</i>, mówi Howard.\n\nSylvia Marsh wychodzi z drzwi opisanych jako <i>Piwnica</i> ({strength}-1)."
+EventKitchenSayNothing.button1,Kontynuuj.
+EventKitchenSayNothing.button2,Niezdane.
+EventAddEvidence01.button1,Kontynuuj.
+EventLoungeLookForGun.button2,Niezdane.
+EventLoungeLookForGun.button1,Kontynuuj.
+EventEvidence02.button1,Kontynuuj.
+EventAddEvidence04.button1,Kontynuuj.
+EventGainPaperDead.text,Zyskujesz przedmiot unikatowy {c:QItemNewspaperDead}. Możesz przeglądać zebrane dowody korzystając z aplikacji.
+EventLoungeLookForGun.text,Test {observation}.
+EventAddEvidence03.button1,Kontynuuj.
+EventAddInteractToken04.text,Add the Interact token as indicated. You may click on this token at any time to review the Newspaper Clipping.
+EventAddInteractToken04.button1,Kontynuuj.
+EventAddEvidence04.text,<i>W spokoju\n088</i>
+EventAddEvidence01.text,<i>Martwi\n634</i>
+EventAddEvidence03.text,<i>Spoczywać\n343</i>
+EventEvidence02.text,<i>Muszą\n907</i>
+EventHowardJournalPrivate2.button1,Kontynuuj.
+EventHowardJournalPrivate3.text,<i>Postanowiłem wysłać jej zaproszenie, by osobiście przybliżyła mi swoje odkrycia.\nMoja skołatana dusza zaznałaby choć odrobinę spokoju wiedząc, że Grace trafiła w lepsze miejsce.</i>
+EventHowardJournalPrivate3.button1,Kontynuuj.
+EventHowardJournalPrivate4.text,"Howard Bechman zwraca się do ciebie przez pokój:\n<i>""Odłóż to proszę. To prywatny dziennik.""</i>\n\nUsuń ten żeton przeszukiwania.\nZyskujesz 1 Wskazówkę {clue}."
+TokenHowardJournal.text,Zwyczajnie wyglądające biurko.
+EventHowardJournalPrivate1.text,You slide the drawer open on the desk, and inside you find a journal. You flip to the last page and read the following:\n\n<i>It's hard to believe that it's been almost one year since my dear Grace passed on. I thought at some point I would be able to move on, but it seems every day I grow more lonely for her. There are days when my one desire is to simply lay down next to her where I, too, may sleep peacfully. Were it not for Mildred's sake, I probably would.</i>
+TokenHowardJournal.button1,{action} Przeszukaj.
+EventHowardJournal1.text,Wysuwasz szufladę biurka i w środku znajdujesz oprawiony w czarną skórę dziennik. Kartkujesz do ostatniego wpisu i czytasz:\n\n<i>Ciężko uwierzyć, że minął już prawie rok od śmierci mojej kochanej Grace. Były chwile, gdy myślałem, że dam radę, że ruszę na przód. Jednak z każdym dniem coraz bardziej za nią tęsknię. Są dni, takie jak ten, gdy moim jedynym marzeniem jest spocząć u jej boku i w końcu zaznać spokoju. Gdyby nie Mildred, zapewne bym tak uczynił.</i>
+EventHowardJournal1.button1,Kontynuuj.
+EventHowardJournal2.text,Kolejny wpis na tej stronie brzmi:\n<i> Wczorajszego wieczora uczestniczyłem w ciekawym odczycie przeprowadzonym przez Lady Sylvię Marsh. Twierdzi, że jest w stanie przeprowadzić rozmowy ze zmarłymi. Początkowo byłem nastawiony bardzo sceptycznie, jednak po jej prezentacjach zacząłem mieć wątpliwości. Może jednak jest ziarno prawdy w tej całej Nekrofizyce, jak raczy to nazywać.</i>
+EventHowardJournal2.button1,Kontynuuj.
+EventHowardJournal3.text,<i>Postanowiłem wysłać jej zaproszenie, by osobiście przybliżyła mi swoje odkrycia.\nMoja skołatana dusza zaznałaby choć odrobinę spokoju wiedząc, że Grace trafiła w lepsze miejsce.</i>
+EventHowardJournal3.button1,Kontynuuj.
+EventHowardJournal4.text,Usuń ten żeton Przeszukiwania.\nZyskujesz jedną wskazówkę.
+EventHowardJournal4.button1,Kontynuuj.
+EventBedroomSearchLetter2.text,Zaproszenie wydawało ci się dziwne gdy do ciebie przyszło. Znaliście się z Bechamnami, jednak nigdy nie byliście blisko. Jeszcze bardziej zdziwiło cię, gdy kilka dni później otrzymałeś kolejny list odnoście przyjęcia, tym razem anonimowy. Ostrzegał cię, żebyś unikał przyjęcia, gdyż kobieta, nazwiskiem Sylvia Marsh, namówiła pana Bechmana, żerując na jego żałobie, do przywrócenia jego grace do życia. \nAutor listu twierdził, że jest to intryga mająca przywołać Rlim Shaikorth, Białego Robaka.\nOczywiście dla takiego rozsądnego człowieka jak ty, brzmiało to co najmniej obłąkańczo. Jednak ciekawość jak i zaproszenie odegrały swoją rolę w twoim przybyciu tutaj.
+EventBedroomSearchLetter2.button1,Kontynuuj.
+EventBedroomRemoveLetterToken.text,Usuń ten żeton Przeszukiwania.\n\nZyskujesz 1 Wskazówkę {clue}.
+EventBedroomRemoveLetterToken.button1,Kontynuuj.
+TokenBobbyFoster.text,Młody mężczyzna pali cygaro.
+EventLoungeWindowSearch2.text,Podążając wzrokiem za jedną z wiewiórek twój wzrok kieruje się na to co znajduje się poniżej. Ku swojemu zdziwieniu odkrywasz, że za oknami posiadłości znajduje się stary, rodzinny cmentarz. Jeden z grobów wygląda na świeżo rozkopany.\n\nUmieść kafelek {c:TileDugUpGrave} we wskazanym miejscu.\n\nUsuń ten żeton Przeszukiwania.\nZyskujesz 1 Wskazówkę {clue}.
+EventLoungeWindowSearch2.button1,Kontynuuj.
+EventBellTowerRingBell.button2,Niezdane.
+EventBellTowerPass.text,Zręcznie cofasz się w cień.\n\nZyskujesz 1 Wskazówkę {clue}.\nUsuń ten żeton Przeszukiwania.
+EventBellTowerPass.button1,Kontynuuj.
+TokenBobbyFoster2.text,Bobby Foster wydaje się byc zadowolony ze swojego deseru.
+TokenBobbyFoster2.button1,{action} Rozmawiaj.
+EventDinningPlaceBobbyFoster.text,Bobby Foster stoi w rogu kuchni, w ciszy przyglądając się pozostałym i rozkoszując się swoim deserem.
+EventDinningPlaceBobbyFoster.button1,Kontynuuj.
+EventDinningTalkBobby.text,"<i>""Witaj. Cieszę się, że udało ci się przyjść. Ten deser jest niesamowity! Ale wiesz z czym byłby jeszcze lepszy?""</i>\nBobby Foster podaje ci butelkę pełną ciemnobrązowej cieczy.\n\nZyskujesz przedmiot powszechny {c:QItemWhiskey}."
+EventDinningTalkBobby.button1,Kontynuuj.
+EventExchangeInvestigator.text,Bobby podciąga rękaw, zamyka oczy i zaczyna inkantację, trzymając się za dziwny znak na nadgarstku.\nCoś jakby ogień ogarnia całe jego ciało. Gdy płomienie znikają, w jego miejscu stoi ktoś zupełnie inny.\n\nUsuń żeton Osoby Bobby'ego Fostera.\n\n<b>(Badacz, który posiadał przedmiot {c:QItemCultSigil} losuje nowego Badacza i umieszcza jego figurkę w miejscu gdzie stał Bobby Foster. Nowa postać zaczyna z zakrytymi kartami Obrażeń i Przerażenia równymi połowie ich Zdrowia/Poczytalności zaokrąglone w górę. Jeśli poprzedni Badacz był Ranny lub Obłąkany, stan ten przechodzi na nową postać. Jednak nowa potać nie dostaje zakrytych kart Obrażeń/ Przerażenia odpowiadających temu stanowi.</b>
+EventExchangeInvestigator.button1,Kontynuuj.
+EventDinningSylviaMarshStabsBechman.text,"Sylvia Marsh wyciąga długi , rytualny sztylet i wbija go w plecy Howarda Bechmana.\n<i>""Ammi, już czas.""</i> mówi. <i>""Zostaw ich. Nie potrzebujemy pieczęci. Wystarczy miłość Bechmana""</i>"
+EventDinningPassStrength.text,Ammi Pierce próbuje cię powstrzymać. Zaczynacie się szarpać. Ammi rzuca cię na podłogę.
+EventDinningRemoveAmmiBechman.text,"Ammi chwyta Howarda Bechmana i znika razem z Sylvią Marsh w drzwiach piwnicy. Z dołu słychać jeszcze krzyk Howarda <i>""Zatrzymajcie ją zanim będzie za późno!""</i>\n\nUsuń och żetony Osób."
+EventDinningRemoveAmmiBechman.button1,Kontynuuj.
+CustomMonsterWhiteWormCult02.info,-
+SpawnWhiteWormCult02.text,Ludzie przy stole zaczynają zaśpiew, którego nie jesteś w stanie rozpoznać. Jeden z nich wyciąga pistolet i strzela do Bobby'ego Fostera. \n\nUsuń wszystkie żetony osób z pomieszczenia i wystaw figurkę {type} (zamieszki) na wskazanym polu obszaru Jadalnia.
+CustomMonsterWhiteWormCult02.monstername,Kultyści Białego Robaka
+SpawnWhiteWormCult02.button1,Kontynuuj.
+EventCellarPlace2.button1,Kontynuuj.
+EventCellarPlace2.text,Usuń żeton Eksploracji i umieść kafelek {c:TileBasementLanding} we wskazanym miejscu.
+EventCellarPlaceExploreToken2.text,Słyszysz niepokojące odgłosy dochodzące z drugiej strony drzwi.\n\nUmieść żeton Eksploracji we wskazanym miejscu.
+EventCellarPlaceExploreToken2.button1,Kontynuuj.
+CustomMonsterSylviaMarshMonster2.info,-
+CustomMonsterSylviaMarshMonster2.monstername,Kapłanka Sylvia Marsh
+EventSpawnGraceHoward2.text,Na ołtarzu spoczywa ciało Grace Bechman. Jej twarz jest szara i zapadnięta, ciało kruche, skóra zaczęła odchodzić od kości. Obok niej, związany i zakneblowany leży jej mąż.\n\nUmieść żetony Grace Bechman i Howarda Bechmana we wskazanych miejscach.
+EventSpawnGraceHoward2.button1,Kontynuuj.
+EventCeremonyRemoveHead2.text,"Ze zdobnym sztyletem w dłoni, Sylvia Marsh postępuje do przodu i szepcze:\n <i>""Mówiłam ci, że się z nią zobaczysz""</i>. \nJednym płynnym ruchem odcina głowę Howarda Bechmana."
+EventCeremonyRemoveHead2.button1,Kontynuuj.
+EventCeremonyMarshsReunited2.button1,Kontynuuj.
+EventCeremonyMarshsReunited2.text,Sylvia Marsh, nie przerywając śpiewu,  skrapia krwią wypływającą z odciętej głowy Howarda, ciało Grace Bechman.\nZapadnięta skóra, unosi się i napina. Mięśnie i ścięgna znów zaczynają wypełniać ciało. Żyły zaczynają pulsować gdy serce znów zaczyna pompować w nie krew. Ciało Grace wygina się w łuk wraz z pierwszym haustem powietrza wciągniętym do jeszcze przed chwilą zapadniętych płuc.
+EventGracesWarning2.text,"Oddech Grace się uspokaja. Ze strachem rozgląda się po pomieszczeniu. Nie mogąc zrozumieć gdzie jest i co się z nią dzieje krzyczy: <i>"" On nadchodzi! Musisz ją powstrzymać! On nadchodzi! Zabij mnie! Zmarli muszą spoczywać w spokoju! Zmarli muszą spoczywać w spokoju! Zabij mnie zanim...""</i>."
+EventGracesWarning2.button1,Kontynuuj.
+EventGraceSpasm2.text,\nOstatnie słowa Grace milkną jak ucięte nożem. Jej oddech znów staje się przyspieszony i niespokojny. Zaczyna panicznie drapać pulsujący obrzęk, który pojawił się na jej szyi. Zaczyna się dławić, a z jej siłą otwartych ust zaczyna wyłaniać się, rozrywając tkanki, biały robak. \nRobak spada na podłogę z przyprawiającym o mdłości mlaśnięciem.\nNagle zaczyna rosnąć do ogromnych rozmiarów. Potwór zwraca się w twoją stronę i powoli rusza na ciebie. \n\nOtrzymujesz 2 zakryte karty Przerażenia ({will} zapobiega).\n
+EventGraceSpasm2.button1,Kontynuuj.
+TokenBobbyFoster3.button1,Kontynuuj.
+TokenBobbyFoster3.text,Bobby Foster wydaje się być zadowolony z deseru.
+EventBedroomFinPaintingSuccess.text,Is there a way to use the QItem starting items to create a banner at the bottom of the starting items page for quantity of starting clue tokens? Similar to how FFG implements. I'm currently handling this via dialog box, but figured it might be something of interest.\n\nIs there a way to use the QItem starting items to create a banner at the bottom of the starting items page for quantity of starting clue tokens? Similar to how FFG implements. I'm currently handling this via dialog box, but figured it might be something of interest.
+EventBedroomFinPaintingSuccess.button1,Kontynuuj.
+EventWomanInTub2.text,Niewidzialna siła zmusza cię do podejścia w stronę kobiety w wannie. Gdy się zbliżasz, wstaje, naga, cała mokra, całkowicie odsłonięta. Wychodzi z wanny i chwyta cię za rękę. Kładzie ją sobie na swojej talii. \nZbliża się do ciebie, a jej wargi stykają się z twoimi.\n W twoim umyśle wirują wspomnienia ciemnego, odosobnionego miejsca, w którym za towarzystwo miałeś jedynie malignę. Czujesz jak twoja dusza opuszcza ciało, a ty sam zaczynasz się unosić ponad łazienką. \nPrzed twoimi oczami rozciąga się cała posiadłość. Wygląda jak starożytny demon gotowy żeby pochłonąć każdego kto stanie mu na drodze.
+EventWomanInTub2.button1,Kontynuuj.
+EventBedroom1Explore.text,Drzwi otwierają się z łatwością.\n\nUmieść kafelek {c:TileBedroom01} oraz ściany we wskazanym miejscu.
+EventBedroom1Explore.button1,Kontynuuj.
+EventBaykheeDead.button1,Kontynuuj.
+EventBaykheeDead.text,Stworzenie opada bezwładnie na ziemię. Skrzydła jeszcze kompulsywnie drżą, gdy mordercza świadomość w oczach powoli gaśnie. Zauważasz, że coś zakleszczyło się pomiędzy szponami potwora.\n\nZyskujesz przedmiot powszechny {c:QItemCommon_Byakhee}.
+TokenTestBasement.button1,Kontynuuj.
+EventMinCam.button1,Button1
+EventMaxCam.button1,Button1
+EventStairsTopLocked.button1,Kontynuuj.
+EventEventStairsTopUnlocked.text,Otwarte.
+EventEventStairsTopUnlocked.button1,Kontynuuj.
+EventDoorStairsTopExplored.text,Drzwi są zamknięte. Będziesz musiał znaleźć inny sposób na otwarcie tych drzwi.
+EventDoorStairsTopExplored.button1,Kontynuuj.
+TokenExploreStairsUnlocked.text,Howard Bechman i inni zostawili drzwi lekko uchylone.
+TokenTopStairsDoorLockedMessage.text,Te drzwi są zamknięte. Będziesz musiał znaleźć sposób żeby je otworzyć.
+TokenTopStairsDoorLockedMessage.button1,Kontynuuj.
+TokenTopStairsDoor.button1,{action} Eksploruj.
+EventPaperDead.button1,Kontynuuj.
+EventPaperDead.text,Napis na odwrocie brzmi:\n\n<i>Muszą\n907</i>
+EventPaperItem04.text,Napis na wycinku:\n\n<i>W spokoju\n088</i>
+EventPaperItem04.button1,Kontynuuj.
+EventPaperItem03.button1,Kontynuuj.
+EventPaperItem03.text,Napis na wycinku:\n\n<i>Spoczywać\n343</i>
+EventPaperItem01.text,Napis na wycinku:\n\n<i>Zmarli\n634</i>
+EventPaperItem01.button1,Kontynuuj.
+EventBathroomGainEvidencePaper04.text,Kończysz i chowasz wycinek do kieszeni.\n\nZyskujesz przedmiot unikatowy {c:QItemPaperItem04}. Możesz skorzystać z aplikacji aby ponownie przyjrzeć się wycinkowi gazety.
+EventBathroomGainEvidencePaper04.button1,Kontynuuj.
+EventBathroomUseToiletWoman.text,Do tej pory nie zdawałeś sobie sprawy jak bardzo potrzebowałeś skorzystać z toalety. Siadasz spokojnie, kontemplując życie. Odczuwasz ulgę. Nie przeszkadza ci nawet wyraz obrzydzenia malujący się na twarzy kobiety w wannie.\n\nOdrzuć 1 kartę Przerażenia lub 1 kartę Obrażenia.
+EventNewspaper03GainEvidence.text,Chowasz wycinek do kieszeni.\n\nZyskujesz przedmiot unikatowy {c:QItemNewspaper03}.\nMożesz przeglądać zebrane dowody korzystając z aplikacji.
+EventNewspaper03GainEvidence.button1,Kontynuuj.
+EventGainNewspaperClipping04.text,Po przeczytaniu chowasz wycinek do kieszeni.\n\nZyskujesz przedmiot unikatowy {c:QItemPaperItem01}. Możesz przeglądać znalezione dowody korzystając z aplikacji.
+EventGainNewspaperClipping04.button1,Kontynuuj.
+EventwinAddOneWorm.button1,winConditionWormCheck.button1
+EventWinConditionMetSylviaFirst.text,Sylvia Marsh pada martwa na ziemię. Jej ciało zaczyna odchodzić od kości, odsłaniając coś głębszego, bardziej złego niż ktokolwiek kiedykolwiek widział. Zastanawiasz się ilu jeszcze takich jak ona jest gdzieś tam, w świecie.
+EventwinConditionMetWormFat.button1,Kontynuuj.
+EventwinAddOneSylvia.button1,testWinConditionSylvia.button
+EventgraceAndHowardEnding.text,Kochali się.
+EventgraceAndHowardEnding.button1,Kontynuuj.
+Eventsylviaending.text,Co za suka.
+Eventsylviaending.button1,Kontynuuj.
+EventWhiteWormEnding.text,Robak.
+EventWhiteWormEnding.button1,Kontynuuj.
+EventWinConditionMetWormSkinny.text,Rlim Shaikorth, Biały Robak opada na ziemię. Jego krwawe macki nie przestają się wić.
+EventSylviaFirstWormSkinny.button1,Kontynuuj.
+EventwinConditionMetWormFat.text,Rlim Shaikorth, Biały Robak, opada na ziemię. Jego krwawe macki nie przestają się jednak wić. . Duże wybrzuszenie wystające  z cielska, przypomina o jego ostatnim, makabrycznym posiłku.
+EventWinConditionMetWormSkinny.button1,Kontynuuj.
+EventSlyviaFirstWormFat.text,Nieopodal Sylvii Marsz leży martwe cielsko Rlim Shaikortha - Białego Robaka. Pomimo tego, że ewidentnie jest martwy, jego krwawe macki nie przestają się poruszać.\nSpore wybrzuszenie w jego cielsku, przypomina o jego ostatnim, odrażającym posiłku.
+EventWinConditionMetSylviaFirst.button1,Kontynuuj.
+EventSylviaFirstWormSkinny.text,Nieopodal Sylvii Marsz leży martwe cielsko Rlim Shaikortha - Białego Robaka. Pomimo tego, że ewidentnie jest martwy, jego krwawe macki nie przestają się poruszać.
+EventSlyviaFirstWormFat.button1,Kontynuuj.
+EventSylviaAndHoward.text,Miłość. Nawet najlepszych z nas potrafi doprowadzić do szaleństwa.\nHoward Bechman nie potrafił pozwolić odejść swojej pięknej Grace, co w ostatecznym rozrachunku kosztowało go życie.\nGdy patrzysz na nich, leżących obok siebie, czujesz bijący od tej sceny spokój.\nZmarli muszą spoczywać w spokoju i tak właśnie będą spoczywać oni. Na wieczność.
+EventMildredFinal.text,Ale co z Mildred, nadal siedzącą w fotelu, nucąc swoją piosenkę? Wpierw pozbawiona matki, teraz ojca. Dla niej koszmar dopiero się zaczyna. Jednak w głębi ducha wie, że wszystko jest możliwe.\n\nByć może zmarli nie będą spoczywać zbyt długo w spokoju.
+EventSylviaAfterWorm.text,Nieopodal wielkiego, białego cielska Rlim Shaikortha leży Sylvia Marsh. Ciało zaczyna odsłaniać coś więcej, coś głębszego, bardziej złego niż ktokolwiek kiedykolwiek widział. Zastanawiasz się ilu jeszcze, takich ja ona, znajduje się gdzieś tam.
+EventSylviaAndHoward.button1,Kontynuuj.
+EventSylviaAfterWorm.button1,Kontynuuj.
+quest.description,Szukając pomocy u tajemniczej Sylvii Marsh, świeżo owdowiały Howard Bechman, nie zdaje sobie sprawy z tego, że stał się pionkem w kosmicznej grze, która toczy się od niepamiętnych czasów.
+quest.authors,\n\nTwórca scenariusza - Sodapaps\nFrancuskie tłumaczenie - Indoy\nPolskie tłumaczenie - Litas\nAll sounds, images, and text are either original works, public domain, or creative commons attribution 3.0. The following citations are for the CCA 3.0 items:\nSounds:\n<i>Annabelle Lee</i> - by Stephanie Swan Quills\n<i>Bite, Blood Squirts, Cracking Chest Open, Decapitation Head Blood, Flush Toilet 2,</i> - by Mike Koenig\n<i>Church Bell Chime, Creepy Background, Party Crowd</i> - by Daniel Simion\n<i>Giant Monster</i> - Doberman\n<i>Torture Sound</i> - Ragdoll485\n\n
+TokenWhiteWoman.text,Przyzwoicie wyglądająca kobieta ubrana na biało.
+TokenWhiteWoman.button1,Kontynuuj.
+TokenGreyMan.text,Łysiejący mężczyzna ubrany w drogi szary garnitur.
+TokenGreyMan.button1,Kontynuuj.
+TokenRedMan2.text,Dostojnie wyglądający dżentelmen.
+TokenRedMan2.button1,Kontynuuj.
+TokenPurpleWoman.text,Kobieta o umiarkowanych poglądach siedząca obok mężczyzny, którego widziałeś na korytarzu.
+TokenPurpleWoman.button1,Kontynuuj.
+TokenBlueWoman.text,Piękna kobieta, w długiej niebieskiej sukni, siedzi i grzecznie rozmawia z chudym mężczyzną obok niej.
+TokenBlueWoman.button1,Kontynuuj.
+TokenYellowMan.text,Wysoki, chudy mężczyzna wyraźnie próbujący przekonać do czegoś młodą kobietę siedzącą obok niego.
+TokenYellowMan.button1,Kontynuuj.
+TokenBlueWoman2.button1,Kontynuuj.
+TokenYellowMan2.button1,Kontynuuj.
+TokenPurpleWoman2.button1,Kontynuuj.
+TokenRedMan3.button1,Kontynuuj.
+TokenWhiteWoman2.button1,Kontynuuj.
+TokenGreyMan2.button1,Kontynuuj.
+EventEventHallCornerRobbyQuestion2.text,"Mężczyzna mierzy cię wzrokiem, gdy zmierzasz w jego stronę. Nie przestając przeżuwać cygara, zaczyna mówić.\n\n""Eh,"" macha do ciebie, ""Myślałem, że nigdy stamtąd nie wyjdziesz."""
+EventEventHallCornerRobbyQuestion2.button1,Co masz na myśli?
+EventEventHallCornerRobbyQuestion2.button2,Zachowaj milczenie.
+EventInvestigatorsEliminated.text,Obrazy szaleństwa eksplodują w twojej głowie. Twoje ciało poddaje się otaczającej cię niepojętej grozie. Wszystko przepadło. Pozostała przy tobie jedynie ciemność twoich najgłębszych lęków. Dręcząc cię. Pełzając dookoła. Ciągnąc cię w dół...w dół...W dół, do grobu przeklętych. Twoich jedynych towarzyszy, wciąż szepczących ostrzeżenie: <i>Martwi muszą spoczywać w spokoju.</i>
+EventInvestigatorsEliminated.button1,Kontynuuj.
+EventWomanInTubSpawn.button1,Kontynuuj.
+EventWomanInTubSpawn.text,Słyszysz dziwny hałas dobiegający ze szczytu schodów, a zaraz po nim przeciągłe warczenie.
+SpawnBathroomHound2.text,Umieść figurkę {type} we wskazanym miejscu.\n\nUmieść żetony Przeszukiwania i Oddziaływania we wskazanych miejscach.\n\nUsuń ten żeton Eksploracji.
+SpawnBathroomHound2.button1,Kontynuuj.
+EventWomanInTubSpawn2.text,Słyszysz hałas dochodzący ze szczytu schodów. Po nim następuje moment nienaturalnej ciszy, przerwany dziwnym warkotem i krzykiem kobiety.
+EventWomanInTubSpawn2.button1,Kontynuuj.
+SpawnWomanInTubSpawn3.text,Umieść figurkę {type} we wskazanym miejscu i usuń ten żeton Osoby.
+SpawnWomanInTubSpawn3.button1,Kontynuuj.
+EventAddBaracade.button1,Kontynuuj.
+Tokenbookshelf.button1,Kontynuuj.
+EventAddBaracade.text,Połka z książkami i innymi drobiazgami mogłaby posłużyć do zabarykadowania przejścia w razie potrzeby.\n\nUmieść żeton Barykady we wskazanym miejscu.
+SpawnByakhee02.text,Potężny hałas dobiega z holu gdy potwór wpada przez jedne z drzwi. Wystaw figurkę {type} we wskazanym miejscu.
+SpawnByakhee02.button1,Kontynuuj.
+SpawnBellTowerByakhee1stSpawn.text,Zaskoczony, cofasz się i przewracasz uderzając o dzwon.\nWielki, skrzydlaty cień pojawia się ciemniejszy od nocnego nieba, pikując w kierunku wieży z niesamowitą prędkością.\nPodnosisz się w tej samej chwili, gdy potworna istota gramoli się do wnętrza, kręcąc głową i potrząsając skrzydłami. \n\nWystaw figurkę {type} we wskazanym miejscu.\nUsuń ten żeton Przeszukiwania.
+EventBellTowerByakhee2ndSpawn.button1,Kontynuuj.
+EventStartingTokens.button1,Kontynuuj.
+UItokens.button1,Button1
+CustomMonsterNightgaunt.monstername,Skrzydlate dziecię nocy
+SpawnBasementNightgaunt.text,Nagle z lewej słyszysz mlaszczący dźwięk mięsa odrywanego od kości. Gdy obracasz wzrok, widzisz skrzydlatą kreaturę, pochylającą się nad Ammi Pierce'em.\nAmmi krzyczy gdy potwór zaczyna pożerać go żywcem. \nPotężnymi szponami, potwór patroszy ogrodnika, kończąc jego cierpienia. Masz nieodparte wrażenie, że maszkara przypomina ci, w jakiś chory sposób, psa Sylvii Marsh.\n\nWystaw figurkę {type} we wskazanym miejscu.
+EventCellarDoorLocked.text,Drzwi ani drgną.
+EventCellarDoorLocked.button1,Kontynuuj.
+TokenLockedCellarExplore.button1,Kontynuuj.
+TokenLockedCellarExplore.text,Zwyczajnie wyglądające drzwi z napisem:\n<i>Piwnica</i>\n\nDrzwi są zamknięte.
+EventMildredFinal.button1,Koniec Gry
+CustomMonsterNightgaunt.info,-
+EventMagicDoorSuccessAction.text,Dziwne, ledwie widoczne, zielone runy świecą dookoła drzwi. Rozpoznajesz w nich starożytne liczby. Gdy ich dotykasz, zaczynają się zmieniać, formując się w nowe sekwencje.\nJako akcję możesz podjąć próbę podania właściwej kombinacji cyfr.\n\nZastąp ten żeton Eksploracji żetonem Oddziaływania.
+EventMagicDoorSuccessAction.button1,Kontynuuj.
